@@ -1,0 +1,615 @@
+make all --print-data-base --no-builtin-variables --no-builtin-rules --question
+# GNU Make 3.81
+# Copyright (C) 2006  Free Software Foundation, Inc.
+# This is free software; see the source for copying conditions.
+# There is NO warranty; not even for MERCHANTABILITY or FITNESS FOR A
+# PARTICULAR PURPOSE.
+
+# This program built for i386-apple-darwin11.3.0
+ 
+
+# Make data base, printed on Sun Jun 19 14:57:26 2022
+
+# Variables
+
+ 
+# automatic
+<D = $(patsubst %/,%,$(dir $<))
+# automatic
+?F = $(notdir $?)
+# environment
+ELECTRON_NO_ATTACH_CONSOLE = 1
+# environment
+LC_CTYPE = UTF-8
+# environment
+VSCODE_LOG_NATIVE = false
+# automatic
+?D = $(patsubst %/,%,$(dir $?))
+# makefile (from `Makefile', line 11)
+ 
+LINKEDLIST_SRC = linkedList/add_back.c linkedList/add_front.c linkedList/lst_new.c linkedList/lst_size.c linkedList/lstLast.c
+# automatic
+@D = $(patsubst %/,%,$(dir $@))
+# automatic
+@F = $(notdir $@)
+# makefile
+CURDIR := /Users/mohamed/Desktop/untitled folder/philo_bonus
+# makefile
+SHELL = /bin/sh
+# environment
+VSCODE_NLS_CONFIG = {"locale":"en-us","availableLanguages":{},"_languagePackSupport":true}
+# environment
+_ = /usr/bin/make
+# makefile (from `Makefile', line 4)
+CFLAGS = -Wall -Wextra -Werror -pthread
+# makefile (from `Makefile', line 1)
+MAKEFILE_LIST :=  Makefile
+# environment
+VSCODE_VERBOSE_LOGGING = true
+# environment
+__CFBundleIdentifier = com.microsoft.VSCode
+# environment
+INFOPATH = /opt/homebrew/share/info:
+# environment
+VSCODE_IPC_HOOK_EXTHOST = /var/folders/3p/lzr1kg6x2bv9jryrz80ntglm0000gn/T/vscode-ipc-3baee598-b58c-429a-9514-51b000574763.sock
+# environment
+VSCODE_CWD = /Users/mohamed/Desktop/untitled folder/philo_bonus
+# environment
+PATH = /Users/mohamed/bin:/usr/local/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/VMware Fusion Tech Preview.app/Contents/Public:/Library/Apple/usr/bin:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Users/mohamed/Developer/flutter/bin
+# makefile (from `Makefile', line 13)
+LINKEDLIST_OBJS = $(LINKEDLIST_SRC:.c=.o)
+# environment
+LSCOLORS = Gxfxcxdxbxegedabagacad
+# environment
+VSCODE_LOG_STACK = false
+# environment
+ELECTRON_RUN_AS_NODE = 1
+# default
+.FEATURES := target-specific order-only second-expansion else-if archives jobserver check-symlink
+# environment
+SSH_AUTH_SOCK = /private/tmp/com.apple.launchd.iZxwPOwHm8/Listeners
+# automatic
+%F = $(notdir $%)
+# environment
+VSCODE_PIPE_LOGGING = true
+# makefile (from `Makefile', line 12)
+OBJS = $(SRCS:.c=.o)
+# environment
+PWD = /Users/mohamed/Desktop/untitled folder/philo_bonus
+# environment
+HOMEBREW_CELLAR = /opt/homebrew/Cellar
+# environment
+ORIGINAL_XDG_CURRENT_DESKTOP = undefined
+# makefile (from `Makefile', line 6)
+GREEN = \033[0;32m
+# environment
+MANPATH = /opt/homebrew/share/man::
+# environment
+VSCODE_AMD_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
+# environment
+HOME = /Users/mohamed
+# default
+MAKEFILEPATH := /Applications/Xcode.app/Contents/Developer/Makefiles
+# environment
+VSCODE_CLI = 1
+# environment
+VSCODE_CODE_CACHE_PATH = /Users/mohamed/Library/Application Support/Code/CachedData/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5
+# environment
+LOGNAME = mohamed
+# environment
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
+# environment
+ZSH = /Users/mohamed/.oh-my-zsh
+# environment
+VSCODE_HANDLES_UNCAUGHT_ERRORS = true
+# automatic
+^D = $(patsubst %/,%,$(dir $^))
+# environment
+XPC_FLAGS = 0x0
+# default
+MAKE = $(MAKE_COMMAND)
+# default
+MAKECMDGOALS := all
+# makefile (from `Makefile', line 10)
+SRCS = main_bonus.c srcs/ft_parse_bonus.c srcs/philo_utils_bonus.c  srcs/lib.c  srcs/_starting_bonus.c srcs/init_semaphores_bonus.c srcs/error_bonus.c
+# environment
+SHLVL = 3
+# makefile (from `Makefile', line 5)
+CC = cc
+# default
+MAKE_VERSION := 3.81
+# environment
+USER = mohamed
+# makefile
+.DEFAULT_GOAL := all
+# environment
+TERM_SESSION_ID = 90471F53-B27B-4E23-9A85-4BE9811F0F40
+# makefile (from `Makefile', line 2)
+NAME = philo_bonus
+# environment
+TK_SILENCE_DEPRECATION = 1
+# environment
+LESS = -R
+# automatic
+%D = $(patsubst %/,%,$(dir $%))
+# default
+MAKE_COMMAND := /Applications/Xcode.app/Contents/Developer/usr/bin/make
+# environment
+TERM_PROGRAM = Apple_Terminal
+# default
+.VARIABLES := 
+# environment
+TMPDIR = /var/folders/3p/lzr1kg6x2bv9jryrz80ntglm0000gn/T/
+# automatic
+*F = $(notdir $*)
+# environment
+VSCODE_IPC_HOOK = /Users/mohamed/Library/Application Support/Code/1.67.2-main.sock
+# makefile (from `Makefile', line 7)
+RED = \033[0;31m
+# makefile
+MAKEFLAGS = Rrqp
+# environment
+MFLAGS = -Rrqp
+# automatic
+*D = $(patsubst %/,%,$(dir $*))
+# environment
+TERM_PROGRAM_VERSION = 444
+# environment
+XPC_SERVICE_NAME = application.com.microsoft.VSCode.13847096.13847102.749A9599-E263-4B90-B378-C0ACC0796DFF
+# environment
+HOMEBREW_PREFIX = /opt/homebrew
+# automatic
++D = $(patsubst %/,%,$(dir $+))
+# automatic
++F = $(notdir $+)
+# environment
+HOMEBREW_REPOSITORY = /opt/homebrew
+# environment
+__CF_USER_TEXT_ENCODING = 0x1F5:0x0:0x0
+# environment
+COMMAND_MODE = unix2003
+# default
+MAKEFILES := 
+# automatic
+<F = $(notdir $<)
+ 
+# environment
+PAGER = less
+# environment
+LC_ALL = C
+# makefile (from `Makefile', line 8)
+RESET = \033[0m
+# makefile (from `Makefile', line 3)
+HEADER = philo_bonus.h
+# automatic
+^F = $(notdir $^)
+# default
+SUFFIXES := 
+# environment
+MAKELEVEL := 0
+# environment
+LANG = C
+# environment
+TERM = xterm-256color
+# environment
+VSCODE_PID = 1077
+# variable set hash-table stats:
+# Load=89/1024=9%, Rehash=0, Collisions=6/127=5%
+
+# Pattern-specific Variable Values
+
+# No pattern-specific variable values.
+
+# Directories
+
+# . (device 16777233, inode 17790561): 13 files, no impossibilities.
+# linkedList (device 16777233, inode 17822073): 12 files, no impossibilities so far.
+# srcs (device 16777233, inode 17790566): 14 files, no impossibilities so far.
+
+# 39 files, no impossibilities in 3 directories.
+
+# Implicit Rules
+
+%.o: %.c
+#  commands to execute (from `Makefile', line 17):
+	@${CC} ${CFLAGS}  -o $@ -c $<
+	@echo "$(GREEN) $< $(RESET)"
+	
+
+# 1 implicit rules, 0 (0.0%) terminal.
+
+# Files
+
+# Not a target:
+srcs/error_bonus.c:
+#  Implicit rule search has been done.
+#  Last modified 2022-06-19 12:11:07
+#  File has been updated.
+#  Successfully updated.
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+
+all: philo_bonus
+#  Phony target (prerequisite of .PHONY).
+#  Command-line target.
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has been updated.
+#  Needs to be updated (-q is set).
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/7=0%
+
+.PHONY: all philo_bonus clean fclean re
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+linkedList/add_back.o: linkedList/add_back.c
+#  Implicit rule search has been done.
+#  Implicit/static pattern stem: `linkedList/add_back'
+#  Last modified 2022-06-19 14:49:40
+#  File has been updated.
+#  Successfully updated.
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+#  commands to execute (from `Makefile', line 17):
+	@${CC} ${CFLAGS}  -o $@ -c $<
+	@echo "$(GREEN) $< $(RESET)"
+	
+
+# Not a target:
+linkedList/add_front.c:
+#  Implicit rule search has been done.
+#  Last modified 2022-06-19 11:52:46
+#  File has been updated.
+#  Successfully updated.
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+
+# Not a target:
+.SUFFIXES:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+push: fclean
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  commands to execute (from `Makefile', line 25):
+	@git status
+	@read -p "Files To Add:" files; git add "$$files" 
+	@ read -p "Message:" message; \
+	git commit -m "$$message"; \
+	git push origin master
+	
+
+# Not a target:
+Makefile:
+#  Implicit rule search has been done.
+#  Last modified 2022-06-19 14:56:03
+#  File has been updated.
+#  Successfully updated.
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+
+# Not a target:
+philo_bonus.h:
+#  Implicit rule search has been done.
+#  Last modified 2022-06-19 11:41:58
+#  File has been updated.
+#  Successfully updated.
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+
+# Not a target:
+linkedList/lstLast.c:
+#  Implicit rule search has been done.
+#  Last modified 2022-06-19 11:53:01
+#  File has been updated.
+#  Successfully updated.
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+
+linkedList/lst_size.o: linkedList/lst_size.c
+#  Implicit rule search has been done.
+#  Implicit/static pattern stem: `linkedList/lst_size'
+#  Last modified 2022-06-19 14:49:42
+#  File has been updated.
+#  Successfully updated.
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+#  commands to execute (from `Makefile', line 17):
+	@${CC} ${CFLAGS}  -o $@ -c $<
+	@echo "$(GREEN) $< $(RESET)"
+	
+
+linkedList/lst_new.o: linkedList/lst_new.c
+#  Implicit rule search has been done.
+#  Implicit/static pattern stem: `linkedList/lst_new'
+#  Last modified 2022-06-19 14:49:41
+#  File has been updated.
+#  Successfully updated.
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+#  commands to execute (from `Makefile', line 17):
+	@${CC} ${CFLAGS}  -o $@ -c $<
+	@echo "$(GREEN) $< $(RESET)"
+	
+
+fclean: clean
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  commands to execute (from `Makefile', line 35):
+	@rm -rf $(NAME)
+	@rm -rf philo.dSYM
+	
+
+# Not a target:
+linkedList/add_back.c:
+#  Implicit rule search has been done.
+#  Last modified 2022-06-19 11:52:38
+#  File has been updated.
+#  Successfully updated.
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+
+srcs/init_semaphores_bonus.o: srcs/init_semaphores_bonus.c
+#  Implicit rule search has been done.
+#  Implicit/static pattern stem: `srcs/init_semaphores_bonus'
+#  Last modified 2022-06-19 14:49:38
+#  File has been updated.
+#  Successfully updated.
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+#  commands to execute (from `Makefile', line 17):
+	@${CC} ${CFLAGS}  -o $@ -c $<
+	@echo "$(GREEN) $< $(RESET)"
+	
+
+main_bonus.o: main_bonus.c
+#  Implicit rule search has been done.
+#  Implicit/static pattern stem: `main_bonus'
+#  Last modified 2022-06-19 14:49:35
+#  File has been updated.
+#  Successfully updated.
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+#  commands to execute (from `Makefile', line 17):
+	@${CC} ${CFLAGS}  -o $@ -c $<
+	@echo "$(GREEN) $< $(RESET)"
+	
+
+# Not a target:
+.DEFAULT:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+srcs/_starting_bonus.o: srcs/_starting_bonus.c
+#  Implicit rule search has been done.
+#  Implicit/static pattern stem: `srcs/_starting_bonus'
+#  Last modified 2022-06-19 14:49:37
+#  File has been updated.
+#  Successfully updated.
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+#  commands to execute (from `Makefile', line 17):
+	@${CC} ${CFLAGS}  -o $@ -c $<
+	@echo "$(GREEN) $< $(RESET)"
+	
+
+srcs/philo_utils_bonus.o: srcs/philo_utils_bonus.c
+#  Implicit rule search has been done.
+#  Implicit/static pattern stem: `srcs/philo_utils_bonus'
+#  Last modified 2022-06-19 14:49:36
+#  File has been updated.
+#  Successfully updated.
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+#  commands to execute (from `Makefile', line 17):
+	@${CC} ${CFLAGS}  -o $@ -c $<
+	@echo "$(GREEN) $< $(RESET)"
+	
+ 
+
+srcs/lib.o: srcs/lib.c
+#  Implicit rule search has been done.
+#  Implicit/static pattern stem: `srcs/lib'
+#  Last modified 2022-06-19 14:49:36
+#  File has been updated.
+#  Successfully updated.
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+#  commands to execute (from `Makefile', line 17):
+	@${CC} ${CFLAGS}  -o $@ -c $<
+	@echo "$(GREEN) $< $(RESET)"
+	
+
+srcs/ft_parse_bonus.o: srcs/ft_parse_bonus.c
+#  Implicit rule search has been done.
+#  Implicit/static pattern stem: `srcs/ft_parse_bonus'
+#  Last modified 2022-06-19 14:49:35
+#  File has been updated.
+#  Successfully updated.
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+#  commands to execute (from `Makefile', line 17):
+	@${CC} ${CFLAGS}  -o $@ -c $<
+	@echo "$(GREEN) $< $(RESET)"
+	
+
+re: fclean all
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+
+clean:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  commands to execute (from `Makefile', line 32):
+	@rm -rf $(OBJS) $(LINKEDLIST_OBJS)
+	
+
+srcs/error_bonus.o: srcs/error_bonus.c
+#  Implicit rule search has been done.
+#  Implicit/static pattern stem: `srcs/error_bonus'
+#  Last modified 2022-06-19 14:49:39
+#  File has been updated.
+#  Successfully updated.
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+#  commands to execute (from `Makefile', line 17):
+	@${CC} ${CFLAGS}  -o $@ -c $<
+	@echo "$(GREEN) $< $(RESET)"
+	
+
+# Not a target:
+linkedList/lst_size.c:
+#  Implicit rule search has been done.
+#  Last modified 2022-06-19 11:52:56
+#  File has been updated.
+#  Successfully updated.
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+
+# Not a target:
+linkedList/lst_new.c:
+#  Implicit rule search has been done.
+#  Last modified 2022-06-19 11:52:50
+#  File has been updated.
+#  Successfully updated.
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+
+philo_bonus: main_bonus.o srcs/ft_parse_bonus.o srcs/philo_utils_bonus.o srcs/lib.o srcs/_starting_bonus.o srcs/init_semaphores_bonus.o srcs/error_bonus.o philo_bonus.h linkedList/add_back.o linkedList/add_front.o linkedList/lst_new.o linkedList/lst_size.o linkedList/lstLast.o
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  Implicit/static pattern stem: `'
+#  File does not exist.
+#  File has been updated.
+#  Needs to be updated (-q is set).
+# automatic
+# @ := philo_bonus
+# automatic
+# % := 
+# automatic
+# * := 
+# automatic
+# + := main_bonus.o srcs/ft_parse_bonus.o srcs/philo_utils_bonus.o srcs/lib.o srcs/_starting_bonus.o srcs/init_semaphores_bonus.o srcs/error_bonus.o philo_bonus.h linkedList/add_back.o linkedList/add_front.o linkedList/lst_new.o linkedList/lst_size.o linkedList/lstLast.o
+# automatic
+# | := 
+# automatic
+# < := main_bonus.o
+# automatic
+# ^ := main_bonus.o srcs/ft_parse_bonus.o srcs/philo_utils_bonus.o srcs/lib.o srcs/_starting_bonus.o srcs/init_semaphores_bonus.o srcs/error_bonus.o philo_bonus.h linkedList/add_back.o linkedList/add_front.o linkedList/lst_new.o linkedList/lst_size.o linkedList/lstLast.o
+# automatic
+# ? := main_bonus.o srcs/ft_parse_bonus.o srcs/philo_utils_bonus.o srcs/lib.o srcs/_starting_bonus.o srcs/init_semaphores_bonus.o srcs/error_bonus.o philo_bonus.h linkedList/add_back.o linkedList/add_front.o linkedList/lst_new.o linkedList/lst_size.o linkedList/lstLast.o
+# variable set hash-table stats:
+# Load=8/32=25%, Rehash=0, Collisions=3/15=20%
+#  commands to execute (from `Makefile', line 21):
+	@$(CC) $(CFLAGS) $(SRCS) $(LINKEDLIST_SRC) -o $(NAME) -g
+	
+
+# Not a target:
+srcs/init_semaphores_bonus.c:
+#  Implicit rule search has been done.
+#  Last modified 2022-06-19 12:14:38
+#  File has been updated.
+#  Successfully updated.
+ 
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+
+linkedList/add_front.o: linkedList/add_front.c
+#  Implicit rule search has been done.
+#  Implicit/static pattern stem: `linkedList/add_front'
+#  Last modified 2022-06-19 14:49:41
+#  File has been updated.
+#  Successfully updated.
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+#  commands to execute (from `Makefile', line 17):
+	@${CC} ${CFLAGS}  -o $@ -c $<
+	@echo "$(GREEN) $< $(RESET)"
+	
+
+# Not a target:
+main_bonus.c:
+#  Implicit rule search has been done.
+#  Last modified 2022-06-19 13:05:38
+#  File has been updated.
+#  Successfully updated.
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+
+# Not a target:
+srcs/_starting_bonus.c:
+#  Implicit rule search has been done.
+#  Last modified 2022-06-19 14:49:18
+#  File has been updated.
+#  Successfully updated.
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+
+# Not a target:
+srcs/philo_utils_bonus.c:
+#  Implicit rule search has been done.
+#  Last modified 2022-06-19 12:33:33
+#  File has been updated.
+#  Successfully updated.
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+
+# Not a target:
+srcs/lib.c:
+#  Implicit rule search has been done.
+#  Last modified 2022-06-19 09:19:47
+#  File has been updated.
+#  Successfully updated.
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+
+linkedList/lstLast.o: linkedList/lstLast.c
+#  Implicit rule search has been done.
+#  Implicit/static pattern stem: `linkedList/lstLast'
+#  Last modified 2022-06-19 14:49:43
+#  File has been updated.
+#  Successfully updated.
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+#  commands to execute (from `Makefile', line 17):
+	@${CC} ${CFLAGS}  -o $@ -c $<
+	@echo "$(GREEN) $< $(RESET)"
+	
+
+# Not a target:
+srcs/ft_parse_bonus.c:
+#  Implicit rule search has been done.
+#  Last modified 2022-06-19 09:25:47
+#  File has been updated.
+#  Successfully updated.
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+
+# files hash-table stats:
+# Load=35/1024=3%, Rehash=0, Collisions=0/108=0%
+# VPATH Search Paths
+
+# No `vpath' search paths.
+
+# No general (`VPATH' variable) search path.
+
+# # of strings in strcache: 1
+# # of strcache buffers: 1
+# strcache size: total = 4096 / max = 4096 / min = 4096 / avg = 4096
+# strcache free: total = 4087 / max = 4087 / min = 4087 / avg = 4087
+
+# Finished Make data base on Sun Jun 19 14:57:26 2022
+
+ 

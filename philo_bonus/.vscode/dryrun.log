@@ -1,0 +1,5 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory `/Users/mohamed/Desktop/untitled folder/philo_bonus'
+cc -Wall -Wextra -Werror -pthread main_bonus.c srcs/ft_parse_bonus.c srcs/philo_utils_bonus.c  srcs/lib.c  srcs/_starting_bonus.c srcs/init_semaphores_bonus.c srcs/error_bonus.c linkedList/add_back.c linkedList/add_front.c linkedList/lst_new.c linkedList/lst_size.c linkedList/lstLast.c -o philo_bonus -g
+make: Leaving directory `/Users/mohamed/Desktop/untitled folder/philo_bonus'
+ 
