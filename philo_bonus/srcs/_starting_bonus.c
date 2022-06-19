@@ -21,9 +21,10 @@ void	*checking_philosopher(void	*philo)
 	t_philo	*temp;
 
 	temp = (t_philo *)philo;
-	 while(temp)
+	 while(1)
 	{
-		usleep(150);
+		// usleep(150);
+		// printf("\nID-%d--(%lu--%ld) = %lu -- %lu\n", temp->id, get_time(), temp->last_time_eat, get_time() - temp->last_time_eat, temp->data->args.time_to_die);
 		if (temp->nbr_eating && temp->data->args.number_of_times_must_eat && eating_count(temp))
 		{
 			temp->data->simulation_ended = 1;
@@ -31,15 +32,10 @@ void	*checking_philosopher(void	*philo)
 		}
 		if (get_time() - temp->last_time_eat >= temp->data->args.time_to_die)
 		{
-			printf("ID-%d--(%lu--%ld) = %lu -- %lu", temp->id, get_time(), temp->last_time_eat, get_time() - temp->last_time_eat, temp->data->args.time_to_die);
 			temp->data->simulation_ended = 1;
 			print_action(temp, temp->id, PDEAD);
 			exit (EXIT_FAILURE);
 		}
-		if (temp->next == NULL)
-			temp = temp->data->head;
-		else
-			temp = temp->next;
 	}
 	return (NULL);
 }
@@ -49,12 +45,11 @@ void	*philo_rotine(void *philosopher)
 	t_philo	*philo;
 
 	philo = (t_philo *)philosopher;
-	printf("\n**id %d***%lu\n",philo->id,philo->last_time_eat);
-	if (!(philo->id % 2))
-		usleep(1500);
+	// printf("\n**id %d***%lu\n",philo->id,philo->last_time_eat);
 	if (pthread_create(&philo->thread, NULL, &checking_philosopher, (void *)philo))
 		philo_error("Error -> thread not created sccusfully", 1);
-	
+	if ((philo->id % 2))
+		usleep(1500);
 	while (philo->data->simulation_ended != 1)
 	{
 		philo_eating(philo);
@@ -65,15 +60,13 @@ void	*philo_rotine(void *philosopher)
 	return (NULL);
 }
 
-void	ft_kill(t_data *da)
+void	ft_kill(t_philo *da)
 {
-	int		index;
 
-	index = 0;
-	while (index < da->args.number_of_philosophers)
+	while (da)
 	{
-		kill(da->pid[index], SIGKILL);
-		index++;
+		kill(da->data->pid, SIGKILL);
+		da = da->next;
 	}
 	exit(1);
 }
@@ -83,34 +76,33 @@ int _starting_bonus(t_data *data, t_philo *phi)
 	int		index;
 	int		status;
 
-	data->pid = (pid_t *)malloc(sizeof(pid_t) * data->args.number_of_philosophers);
-	if (!data->pid)
-		philo_error("Error -> malloc", 1);
 	tmp = phi;
+	(void)data;
 	index = 0;
-	while (tmp)
+	while (phi)
 	{
 		phi->id = index + 1;
-		data->pid[index] = fork();
-		if (data->pid[index] == -1)
+		phi->data->pid = fork();
+		if (phi->data->pid == -1)
 			philo_error("Error -> fork", 1);
-		if (data->pid[index] == 0)
+		else if (phi->data->pid == 0)
 		{
-			phi->last_time_eat = get_time();
 			phi->last_time_eat = get_time();
 			philo_rotine(phi);
 		}
-		index++;
-		tmp = tmp->next;
+		else
+		{
+			index++;
+			phi = phi->next;
+		}
 	}
-	waitpid(-1, NULL, 0);
 	while (tmp)
 	{
 		waitpid(-1, &status, 0);
 		if (status == 0)
 			tmp = tmp->next;
 		else if (status != 0)
-			ft_kill(data);
+			ft_kill(tmp);
 	}
 
 	return(EXIT_SUCCESS);

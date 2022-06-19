@@ -44,7 +44,7 @@ typedef struct args
 
 typedef struct data
 {
-	pid_t			*pid;
+	pid_t			pid;
     t_args          args;
     struct s_philo  *head;
     sem_t			*fork;
