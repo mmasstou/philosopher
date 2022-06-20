@@ -1,12 +1,5 @@
 #include "../philo_bonus.h"
 
-void	*ft_sem_post(t_philo *philo)
-{
-	sem_post(philo->data->fork);
-	sem_post(philo->data->fork);
-	return (NULL);
-}
-
 void	philo_eating(t_philo *philo)
 {
 	sem_wait(philo->data->fork);
@@ -28,12 +21,11 @@ void	*checking_philosopher(void	*philo)
 	temp = (t_philo *)philo;
 	while(1)
 	{
-		// printf("\nID-%d--(%lu--%ld) = %lu -- %lu\n", temp->id, get_time(), temp->last_time_eat, get_time() - temp->last_time_eat, temp->data->args.time_to_die);
 		if (temp->nbr_eating == temp->data->args.number_of_times_must_eat)
 		{
 			temp->data->simulation_ended = 1;
 			temp->eated = 1;
-			exit(EXIT_SUCCESS);
+			return NULL;
 		}
 		if (get_time() - temp->last_time_eat >= temp->data->args.time_to_die)
 		{
@@ -41,7 +33,6 @@ void	*checking_philosopher(void	*philo)
 			print_action(temp, temp->id, PDEAD);
 			exit (EXIT_FAILURE);
 		}
-		usleep(500);
 	}
 	return (NULL);
 }
@@ -77,19 +68,18 @@ void	ft_waitpid(t_philo *phi)
 	while (phi)
 	{
 		waitpid(-1, &status, 0);
-		if (status != 0)
+		if (status == 0)
+			phi = phi->next;
+		else if (status != 0)
 		{
 			phi = lst;
 			while (phi)
 			{
-				usleep(100);
 				kill(phi->pid, SIGKILL);
 				phi = phi->next;
-				
 			}
 			exit(1);
 		}
-		phi = phi->next;
 	}
 }
 

@@ -79,6 +79,7 @@ int	str_digit(char	*str);
 char	*ft_strtrim(char const *s1, char const *set);
 int	ft_atoi(const char *str);
 void	ft_putendl_fd(char *s, int fd);
+char	*ft_strstr(const char *haystack, const char *needle);
 // ft_parse
 int	ft_parse_bonus(int argc, char *argv[], t_args *args);
 void	print_action(t_philo *philo, int id, char *string);

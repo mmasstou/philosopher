@@ -12,21 +12,19 @@ void	close_semaphores(t_data *data)
 
 void    init_semaphores_bonus(t_data *data)
 {
-	sem_unlink(SEM_FORK);
-	sem_unlink(SEM_WIRTE);
-    data->fork = sem_open(SEM_FORK, O_CREAT | O_EXCL, 666, data->args.number_of_philosophers);
+    data->fork = sem_open(SEM_FORK, O_CREAT, 666, data->args.number_of_philosophers);
     if (data->fork == SEM_FAILED)
     {
         sem_unlink(SEM_FORK);
-        data->fork = sem_open(SEM_FORK, O_CREAT | O_EXCL, 666, data->args.number_of_philosophers);
+        data->fork = sem_open(SEM_FORK, O_CREAT, 666, data->args.number_of_philosophers);
         if (data->fork == SEM_FAILED)
             philo_error("can't create fork semphores !", 1);
     }
-    data->wirteing = sem_open(SEM_WIRTE, O_CREAT | O_EXCL, 666, 1);
+    data->wirteing = sem_open(SEM_WIRTE, O_CREAT, 666, 1);
     if (data->wirteing == SEM_FAILED)
     {
         sem_unlink(SEM_WIRTE);
-        data->wirteing = sem_open(SEM_WIRTE, O_CREAT | O_EXCL, 666, 1);
+        data->wirteing = sem_open(SEM_WIRTE, O_CREAT, 666, 1);
         if (data->wirteing == SEM_FAILED)
         {
             sem_unlink(SEM_FORK);
