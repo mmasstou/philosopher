@@ -6,11 +6,11 @@
 /*   By: mmasstou <mmasstou@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/06/20 18:50:53 by mmasstou          #+#    #+#             */
-/*   Updated: 2022/06/20 18:57:28 by mmasstou         ###   ########.fr       */
+/*   Updated: 2022/06/20 23:46:55 by mmasstou         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../philo.h"
+#include "../philo_bonus.h"
 
 t_philo	*lstnew(int id, t_data *data)
 {

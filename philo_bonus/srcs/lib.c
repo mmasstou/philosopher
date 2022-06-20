@@ -1,3 +1,15 @@
+/* ************************************************************************** */
+/*                                                                            */
+/*                                                        :::      ::::::::   */
+/*   lib.c                                              :+:      :+:    :+:   */
+/*                                                    +:+ +:+         +:+     */
+/*   By: mmasstou <mmasstou@student.42.fr>          +#+  +:+       +#+        */
+/*                                                +#+#+#+#+#+   +#+           */
+/*   Created: 2022/06/21 00:10:37 by mmasstou          #+#    #+#             */
+/*   Updated: 2022/06/21 00:10:47 by mmasstou         ###   ########.fr       */
+/*                                                                            */
+/* ************************************************************************** */
+
 #include "../philo_bonus.h"
 
 void	ft_putendl_fd(char *s, int fd)
@@ -8,6 +20,7 @@ void	ft_putendl_fd(char *s, int fd)
 		write (fd, s++, 1);
 	write (fd, "\n", 1);
 }
+
 char	*ft_strstr(const char *haystack, const char *needle)
 {
 	size_t	i;
@@ -28,4 +41,9 @@ char	*ft_strstr(const char *haystack, const char *needle)
 		i ++;
 	}
 	return (0);
+}
+
+int	ft_isdigit( int d)
+{
+	return (d >= '0' && d <= '9');
 }

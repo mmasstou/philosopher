@@ -1,26 +1,22 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   lst_size.c                                         :+:      :+:    :+:   */
+/*   lstLast.c                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: mmasstou <mmasstou@student.1337.ma>        +#+  +:+       +#+        */
+/*   By: mmasstou <mmasstou@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/06/20 18:51:05 by mmasstou          #+#    #+#             */
-/*   Updated: 2022/06/20 18:51:08 by mmasstou         ###   ########.fr       */
+/*   Created: 2022/06/20 18:50:41 by mmasstou          #+#    #+#             */
+/*   Updated: 2022/06/20 23:46:55 by mmasstou         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "../philo.h"
+#include "../philo_bonus.h"
 
-int	ft_lstsize(t_philo *lst)
+t_philo	*lstlast(t_philo *lst)
 {
-	int	count;
-
-	count = 0;
-	while (lst)
-	{
-		count++;
+	if (!lst)
+		return (0);
+	while (lst->next)
 		lst = lst->next;
-	}
-	return (count);
+	return (lst);
 }

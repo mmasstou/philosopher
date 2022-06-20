@@ -1,3 +1,15 @@
+/* ************************************************************************** */
+/*                                                                            */
+/*                                                        :::      ::::::::   */
+/*   _starting_bonus.c                                  :+:      :+:    :+:   */
+/*                                                    +:+ +:+         +:+     */
+/*   By: mmasstou <mmasstou@student.42.fr>          +#+  +:+       +#+        */
+/*                                                +#+#+#+#+#+   +#+           */
+/*   Created: 2022/06/21 00:03:25 by mmasstou          #+#    #+#             */
+/*   Updated: 2022/06/21 00:04:35 by mmasstou         ###   ########.fr       */
+/*                                                                            */
+/* ************************************************************************** */
+
 #include "../philo_bonus.h"
 
 void	philo_eating(t_philo *philo)
@@ -19,13 +31,13 @@ void	*checking_philosopher(void	*philo)
 	t_philo	*temp;
 
 	temp = (t_philo *)philo;
-	while(1)
+	while (1)
 	{
 		if (temp->nbr_eating == temp->data->args.number_of_times_must_eat)
 		{
 			temp->data->simulation_ended = 1;
 			temp->eated = 1;
-			return NULL;
+			return (NULL);
 		}
 		if (get_time() - temp->last_time_eat >= temp->data->args.time_to_die)
 		{
@@ -42,7 +54,8 @@ void	*philo_rotine(void *philosopher)
 	t_philo	*philo;
 
 	philo = (t_philo *)philosopher;
-	if (pthread_create(&philo->thread, NULL, &checking_philosopher, (void *)philo))
+	if (pthread_create(&philo->thread, NULL, \
+	&checking_philosopher, (void *)philo))
 		philo_error("Error -> thread not created sccusfully", 1);
 	if ((philo->id % 2))
 		usleep(1000);
@@ -83,7 +96,7 @@ void	ft_waitpid(t_philo *phi)
 	}
 }
 
-int _starting_bonus(t_philo *phi)
+int	_starting_bonus(t_philo *phi)
 {
 	t_philo	*p;
 
@@ -102,5 +115,5 @@ int _starting_bonus(t_philo *phi)
 			phi = phi->next;
 	}
 	ft_waitpid(p);
-	return(EXIT_SUCCESS);
+	return (EXIT_SUCCESS);
 }
