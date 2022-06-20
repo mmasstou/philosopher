@@ -1,12 +1,16 @@
+/* ************************************************************************** */
+/*                                                                            */
+/*                                                        :::      ::::::::   */
+/*   philo_utils.c                                      :+:      :+:    :+:   */
+/*                                                    +:+ +:+         +:+     */
+/*   By: mmasstou <mmasstou@student.42.fr>          +#+  +:+       +#+        */
+/*                                                +#+#+#+#+#+   +#+           */
+/*   Created: 2022/06/20 18:52:26 by mmasstou          #+#    #+#             */
+/*   Updated: 2022/06/20 19:42:24 by mmasstou         ###   ########.fr       */
+/*                                                                            */
+/* ************************************************************************** */
+
 #include "../philo.h"
-
-unsigned long	get_time(void)
-{
-	struct timeval	t;
-
-	gettimeofday(&t, NULL);
-	return ((t.tv_sec * 1000) + (t.tv_usec / 1000));
-}
 
 int	ft_isdigit( int d)
 {
@@ -49,18 +53,15 @@ int	cheack_death(t_philo *phi)
 
 void	print_action(t_philo *philo, int id, char *string)
 {
-	if (philo->data->simulation_ended != 1)
-	{
-		pthread_mutex_lock(&(philo->data->wirteing));
-		printf("%lu %i %s\n",get_time() - philo->data->simulation_start, id, string);
+	pthread_mutex_lock(&(philo->data->wirteing));
+	ft_putnbr_fd(get_time() - philo->data->simulation_start, STDOUT_FILENO);
+	write(STDOUT_FILENO, " ", 1);
+	ft_putnbr_fd(id, STDOUT_FILENO);
+	write(STDOUT_FILENO, " ", 1);
+	write(STDOUT_FILENO, string, ft_strlen(string));
+	write(STDOUT_FILENO, "\n", 1);
+	if (!ft_strstr("died", string))
 		pthread_mutex_unlock(&(philo->data->wirteing));
-	}
-	else if (philo->data->simulation_ended == 1)
-	{
-		usleep(100);
-		pthread_mutex_lock(&(philo->data->wirteing));
-		printf("%lu %i %s\n",get_time() - philo->data->simulation_start, id, string);
-	}
 }
 
 void	sleep_time(unsigned long time)

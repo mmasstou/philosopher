@@ -1,3 +1,15 @@
+/* ************************************************************************** */
+/*                                                                            */
+/*                                                        :::      ::::::::   */
+/*   lib.c                                              :+:      :+:    :+:   */
+/*                                                    +:+ +:+         +:+     */
+/*   By: mmasstou <mmasstou@student.42.fr>          +#+  +:+       +#+        */
+/*                                                +#+#+#+#+#+   +#+           */
+/*   Created: 2022/06/20 18:52:12 by mmasstou          #+#    #+#             */
+/*   Updated: 2022/06/20 19:38:32 by mmasstou         ###   ########.fr       */
+/*                                                                            */
+/* ************************************************************************** */
+
 #include "../philo.h"
 
 static int	is_instring(char c, const char *set)
@@ -6,16 +18,6 @@ static int	is_instring(char c, const char *set)
 		if (c == *set++)
 			return (1);
 	return (0);
-}
-
-size_t	ft_strlen(const char *str)
-{
-	size_t	index;
-
-	index = -1;
-	while (str[++index])
-		;
-	return (index);
 }
 
 static int	ft_isspace(int s)
@@ -79,13 +81,4 @@ char	*ft_strtrim(char const *s1, char const *set)
 		*strtrim++ = s1[index++];
 	*strtrim = 0;
 	return (strtrim - (index - zndex));
-}
-
-void	ft_putendl_fd(char *s, int fd)
-{
-	if (!s)
-		return ;
-	while (*s)
-		write (fd, s++, 1);
-	write (fd, "\n", 1);
 }
