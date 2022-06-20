@@ -1,6 +1,6 @@
 #include "../philo_bonus.h"
 
-unsigned long	get_time(void)
+long long	get_time(void)
 {
 	struct timeval	t;
 
@@ -57,28 +57,27 @@ static size_t	ft_strlen(const char *s)
 		strlen ++;
 	return (strlen);
 }
-
-static void	ft_putnbr_fd(int n, int fd)
+void	ft_putchar_fd(char c, int fd)
 {
-	long	nb;
+	write(fd, &c, 1);
+}
 
-	nb = n;
-	if (nb < 0)
+void	ft_putnbr_fd(int n, int fd)
+{
+	unsigned int	nbr;
+
+	if (n < 0)
 	{
-		nb = -nb;
-		write(fd, "-", 1);
-	}
-	if (nb > 9)
-	{
-		ft_putnbr_fd(nb / 10, fd);
-		ft_putnbr_fd(nb % 10, fd);
+		ft_putchar_fd('-', fd);
+		nbr = (unsigned int)(n * -1);
 	}
 	else
-	{
-		nb += '0';
-		write(fd, &nb, 1);
-	}
+		nbr = (unsigned int)n;
+	if (nbr >= 10)
+		ft_putnbr_fd(nbr / 10, fd);
+	ft_putchar_fd((nbr % 10 + 48), fd);
 }
+
 
 static char	*ft_strstr(const char *haystack, const char *needle)
 {
@@ -116,9 +115,9 @@ void	print_action(t_philo *philo, int id, char *string)
 		sem_post(philo->data->wirteing);
 }
 
-void	sleep_time(unsigned long time)
+void	sleep_time(long long time)
 {
-	unsigned long	i;
+	long long	i;
 
 	i = get_time();
 	while (1)
@@ -130,19 +129,19 @@ void	sleep_time(unsigned long time)
 }
 
 
-int	eating_count(t_philo *philo)
-{
-	t_philo *phi;
+// int	eating_count(t_philo *philo)
+// {
+// 	t_philo *phi;
 
-	phi = philo;
-	while(phi)
-	{
-		if (phi->nbr_eating < phi->data->args.number_of_times_must_eat)
-			return (0);
-		phi = phi->next;
-	}
-	return (1);
-}
+// 	phi = philo;
+// 	while(phi)
+// 	{
+// 		if (phi->nbr_eating < phi->data->args.number_of_times_must_eat)
+// 			return (0);
+// 		phi = phi->next;
+// 	}
+// 	return (1);
+// }
 void	simulation_started(t_philo **phi, unsigned long i)
 {
 	t_philo	*p;

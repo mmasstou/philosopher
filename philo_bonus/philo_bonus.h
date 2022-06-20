@@ -36,15 +36,14 @@
 typedef struct args
 {
     int             number_of_philosophers;
-	unsigned long	time_to_die;
-	unsigned long	time_to_eat;
-	unsigned long	time_to_sleep;
+	long	time_to_die;
+	long	time_to_eat;
+	long	time_to_sleep;
 	int				number_of_times_must_eat;
 }   t_args;
 
 typedef struct data
 {
-	pid_t			pid;
     t_args          args;
     struct s_philo  *head;
     sem_t			*fork;
@@ -57,9 +56,11 @@ typedef struct data
 typedef struct s_philo
 {
 	int				id;
+	pid_t			pid;
 	pthread_t		thread;
 	long			last_time_eat;
 	int				nbr_eating;
+	int				eated;
 	t_data			*data;
     struct s_philo  *next;
 }	t_philo;
@@ -71,7 +72,7 @@ void	add_front(t_philo **lst, t_philo *new);
 int     ft_lstsize(t_philo *lst);
 t_philo	*lstlast(t_philo *lst);
 // philo_ustils
-unsigned long	get_time(void);
+long long	get_time(void);
 int	ft_isdigit( int d);
 int	str_digit(char	*str);
 // lib
@@ -81,7 +82,7 @@ void	ft_putendl_fd(char *s, int fd);
 // ft_parse
 int	ft_parse_bonus(int argc, char *argv[], t_args *args);
 void	print_action(t_philo *philo, int id, char *string);
-void	sleep_time(unsigned long time);
+void	sleep_time(long long time);
 int _starting_bonus(t_philo *phi);
 int	eating_count(t_philo *philo);
 int	cheack_death(t_philo *phi);

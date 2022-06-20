@@ -24,7 +24,7 @@ int main(int argc, char *argv[])
 {
     t_data  data;
     t_philo *philo;
-    t_philo *temp;
+    // t_philo *temp;
 
     // atexit(f);
     if ((argc < 5 ||  argc > 6))
@@ -36,13 +36,15 @@ int main(int argc, char *argv[])
     init_semaphores_bonus(&data);
     data.simulation_start = get_time();
      _starting_bonus(philo);
-    while (philo)
-    {
-        temp = philo->next;
-        free(philo);
-        philo = temp;
-    }
-    data.head = NULL;
-    philo = NULL;
+	 close_semaphores(&data);
+	
+    // while (philo)
+    // {
+    //     temp = philo->next;
+    //     free(philo);
+    //     philo = temp;
+    // }
+    // data.head = NULL;
+    // philo = NULL;
     return (0);
 }

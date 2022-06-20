@@ -38,7 +38,6 @@ int	arg_isdigit(char *str)
 int min_args(t_args *args)
 {
     if (args->number_of_philosophers < 1 
-        || args->number_of_times_must_eat < 0 
         || args->time_to_die < 1
         || args->time_to_eat < 1
         || args->time_to_sleep < 1)
@@ -65,9 +64,13 @@ int	ft_parse_bonus(int argc, char *argv[], t_args *args)
     args->time_to_eat = arg_isdigit(argv[2]);
     args->time_to_sleep = arg_isdigit(argv[3]);
     if (argc > 5)
+	{
         args->number_of_times_must_eat = arg_isdigit(argv[4]);
+		if (args->number_of_times_must_eat < 0)
+			philo_error("min value", 0);
+	}
 	else
-        args->number_of_times_must_eat = 0;
+        args->number_of_times_must_eat = -1;
     min_args(args);
     return (0);
 }
