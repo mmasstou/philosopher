@@ -8,11 +8,10 @@ make all --print-data-base --no-builtin-variables --no-builtin-rules --question
 # This program built for i386-apple-darwin11.3.0
  
 
-# Make data base, printed on Sun Jun 19 14:57:26 2022
+# Make data base, printed on Sun Jun 19 19:03:55 2022
 
 # Variables
 
- 
 # automatic
 <D = $(patsubst %/,%,$(dir $<))
 # automatic
@@ -26,7 +25,6 @@ VSCODE_LOG_NATIVE = false
 # automatic
 ?D = $(patsubst %/,%,$(dir $?))
 # makefile (from `Makefile', line 11)
- 
 LINKEDLIST_SRC = linkedList/add_back.c linkedList/add_front.c linkedList/lst_new.c linkedList/lst_size.c linkedList/lstLast.c
 # automatic
 @D = $(patsubst %/,%,$(dir $@))
@@ -51,7 +49,7 @@ __CFBundleIdentifier = com.microsoft.VSCode
 # environment
 INFOPATH = /opt/homebrew/share/info:
 # environment
-VSCODE_IPC_HOOK_EXTHOST = /var/folders/3p/lzr1kg6x2bv9jryrz80ntglm0000gn/T/vscode-ipc-3baee598-b58c-429a-9514-51b000574763.sock
+VSCODE_IPC_HOOK_EXTHOST = /var/folders/3p/lzr1kg6x2bv9jryrz80ntglm0000gn/T/vscode-ipc-87fbcc7d-62f2-4f47-97ef-000d740e1371.sock
 # environment
 VSCODE_CWD = /Users/mohamed/Desktop/untitled folder/philo_bonus
 # environment
@@ -67,7 +65,7 @@ ELECTRON_RUN_AS_NODE = 1
 # default
 .FEATURES := target-specific order-only second-expansion else-if archives jobserver check-symlink
 # environment
-SSH_AUTH_SOCK = /private/tmp/com.apple.launchd.iZxwPOwHm8/Listeners
+SSH_AUTH_SOCK = /private/tmp/com.apple.launchd.qxaGQUgiPB/Listeners
 # automatic
 %F = $(notdir $%)
 # environment
@@ -123,7 +121,7 @@ USER = mohamed
 # makefile
 .DEFAULT_GOAL := all
 # environment
-TERM_SESSION_ID = 90471F53-B27B-4E23-9A85-4BE9811F0F40
+TERM_SESSION_ID = E32E7ADC-8E1D-409F-A987-98DCABBC804A
 # makefile (from `Makefile', line 2)
 NAME = philo_bonus
 # environment
@@ -153,9 +151,9 @@ MFLAGS = -Rrqp
 # automatic
 *D = $(patsubst %/,%,$(dir $*))
 # environment
-TERM_PROGRAM_VERSION = 444
+TERM_PROGRAM_VERSION = 445
 # environment
-XPC_SERVICE_NAME = application.com.microsoft.VSCode.13847096.13847102.749A9599-E263-4B90-B378-C0ACC0796DFF
+XPC_SERVICE_NAME = application.com.microsoft.VSCode.16040523.16040529.019C1DCF-C8FD-48F8-847E-4799F11FA1E2
 # environment
 HOMEBREW_PREFIX = /opt/homebrew
 # automatic
@@ -172,7 +170,6 @@ COMMAND_MODE = unix2003
 MAKEFILES := 
 # automatic
 <F = $(notdir $<)
- 
 # environment
 PAGER = less
 # environment
@@ -192,7 +189,7 @@ LANG = C
 # environment
 TERM = xterm-256color
 # environment
-VSCODE_PID = 1077
+VSCODE_PID = 3779
 # variable set hash-table stats:
 # Load=89/1024=9%, Rehash=0, Collisions=6/127=5%
 
@@ -202,11 +199,11 @@ VSCODE_PID = 1077
 
 # Directories
 
-# . (device 16777233, inode 17790561): 13 files, no impossibilities.
-# linkedList (device 16777233, inode 17822073): 12 files, no impossibilities so far.
-# srcs (device 16777233, inode 17790566): 14 files, no impossibilities so far.
+# . (device 16777231, inode 17790561): 12 files, no impossibilities.
+# linkedList (device 16777231, inode 17822073): 12 files, no impossibilities so far.
+# srcs (device 16777231, inode 17790566): 14 files, no impossibilities so far.
 
-# 39 files, no impossibilities in 3 directories.
+# 38 files, no impossibilities in 3 directories.
 
 # Implicit Rules
 
@@ -247,7 +244,7 @@ all: philo_bonus
 linkedList/add_back.o: linkedList/add_back.c
 #  Implicit rule search has been done.
 #  Implicit/static pattern stem: `linkedList/add_back'
-#  Last modified 2022-06-19 14:49:40
+#  Last modified 2022-06-19 18:22:03
 #  File has been updated.
 #  Successfully updated.
 # variable set hash-table stats:
@@ -296,7 +293,7 @@ Makefile:
 # Not a target:
 philo_bonus.h:
 #  Implicit rule search has been done.
-#  Last modified 2022-06-19 11:41:58
+#  Last modified 2022-06-19 15:53:39
 #  File has been updated.
 #  Successfully updated.
 # variable set hash-table stats:
@@ -311,10 +308,11 @@ linkedList/lstLast.c:
 # variable set hash-table stats:
 # Load=0/32=0%, Rehash=0, Collisions=0/0=0%
 
+ 
 linkedList/lst_size.o: linkedList/lst_size.c
 #  Implicit rule search has been done.
 #  Implicit/static pattern stem: `linkedList/lst_size'
-#  Last modified 2022-06-19 14:49:42
+#  Last modified 2022-06-19 18:22:03
 #  File has been updated.
 #  Successfully updated.
 # variable set hash-table stats:
@@ -327,7 +325,7 @@ linkedList/lst_size.o: linkedList/lst_size.c
 linkedList/lst_new.o: linkedList/lst_new.c
 #  Implicit rule search has been done.
 #  Implicit/static pattern stem: `linkedList/lst_new'
-#  Last modified 2022-06-19 14:49:41
+#  Last modified 2022-06-19 18:22:03
 #  File has been updated.
 #  Successfully updated.
 # variable set hash-table stats:
@@ -359,7 +357,7 @@ linkedList/add_back.c:
 srcs/init_semaphores_bonus.o: srcs/init_semaphores_bonus.c
 #  Implicit rule search has been done.
 #  Implicit/static pattern stem: `srcs/init_semaphores_bonus'
-#  Last modified 2022-06-19 14:49:38
+#  Last modified 2022-06-19 18:22:03
 #  File has been updated.
 #  Successfully updated.
 # variable set hash-table stats:
@@ -372,7 +370,7 @@ srcs/init_semaphores_bonus.o: srcs/init_semaphores_bonus.c
 main_bonus.o: main_bonus.c
 #  Implicit rule search has been done.
 #  Implicit/static pattern stem: `main_bonus'
-#  Last modified 2022-06-19 14:49:35
+#  Last modified 2022-06-19 18:22:03
 #  File has been updated.
 #  Successfully updated.
 # variable set hash-table stats:
@@ -391,7 +389,7 @@ main_bonus.o: main_bonus.c
 srcs/_starting_bonus.o: srcs/_starting_bonus.c
 #  Implicit rule search has been done.
 #  Implicit/static pattern stem: `srcs/_starting_bonus'
-#  Last modified 2022-06-19 14:49:37
+#  Last modified 2022-06-19 18:22:03
 #  File has been updated.
 #  Successfully updated.
 # variable set hash-table stats:
@@ -404,7 +402,7 @@ srcs/_starting_bonus.o: srcs/_starting_bonus.c
 srcs/philo_utils_bonus.o: srcs/philo_utils_bonus.c
 #  Implicit rule search has been done.
 #  Implicit/static pattern stem: `srcs/philo_utils_bonus'
-#  Last modified 2022-06-19 14:49:36
+#  Last modified 2022-06-19 18:22:03
 #  File has been updated.
 #  Successfully updated.
 # variable set hash-table stats:
@@ -413,12 +411,11 @@ srcs/philo_utils_bonus.o: srcs/philo_utils_bonus.c
 	@${CC} ${CFLAGS}  -o $@ -c $<
 	@echo "$(GREEN) $< $(RESET)"
 	
- 
 
 srcs/lib.o: srcs/lib.c
 #  Implicit rule search has been done.
 #  Implicit/static pattern stem: `srcs/lib'
-#  Last modified 2022-06-19 14:49:36
+#  Last modified 2022-06-19 18:22:03
 #  File has been updated.
 #  Successfully updated.
 # variable set hash-table stats:
@@ -430,8 +427,9 @@ srcs/lib.o: srcs/lib.c
 
 srcs/ft_parse_bonus.o: srcs/ft_parse_bonus.c
 #  Implicit rule search has been done.
+ 
 #  Implicit/static pattern stem: `srcs/ft_parse_bonus'
-#  Last modified 2022-06-19 14:49:35
+#  Last modified 2022-06-19 18:22:03
 #  File has been updated.
 #  Successfully updated.
 # variable set hash-table stats:
@@ -459,7 +457,7 @@ clean:
 srcs/error_bonus.o: srcs/error_bonus.c
 #  Implicit rule search has been done.
 #  Implicit/static pattern stem: `srcs/error_bonus'
-#  Last modified 2022-06-19 14:49:39
+#  Last modified 2022-06-19 18:22:03
 #  File has been updated.
 #  Successfully updated.
 # variable set hash-table stats:
@@ -522,14 +520,13 @@ srcs/init_semaphores_bonus.c:
 #  Last modified 2022-06-19 12:14:38
 #  File has been updated.
 #  Successfully updated.
- 
 # variable set hash-table stats:
 # Load=0/32=0%, Rehash=0, Collisions=0/0=0%
 
 linkedList/add_front.o: linkedList/add_front.c
 #  Implicit rule search has been done.
 #  Implicit/static pattern stem: `linkedList/add_front'
-#  Last modified 2022-06-19 14:49:41
+#  Last modified 2022-06-19 18:22:03
 #  File has been updated.
 #  Successfully updated.
 # variable set hash-table stats:
@@ -551,7 +548,7 @@ main_bonus.c:
 # Not a target:
 srcs/_starting_bonus.c:
 #  Implicit rule search has been done.
-#  Last modified 2022-06-19 14:49:18
+#  Last modified 2022-06-19 16:17:28
 #  File has been updated.
 #  Successfully updated.
 # variable set hash-table stats:
@@ -578,7 +575,7 @@ srcs/lib.c:
 linkedList/lstLast.o: linkedList/lstLast.c
 #  Implicit rule search has been done.
 #  Implicit/static pattern stem: `linkedList/lstLast'
-#  Last modified 2022-06-19 14:49:43
+#  Last modified 2022-06-19 18:22:03
 #  File has been updated.
 #  Successfully updated.
 # variable set hash-table stats:
@@ -610,6 +607,6 @@ srcs/ft_parse_bonus.c:
 # strcache size: total = 4096 / max = 4096 / min = 4096 / avg = 4096
 # strcache free: total = 4087 / max = 4087 / min = 4087 / avg = 4087
 
-# Finished Make data base on Sun Jun 19 14:57:26 2022
+# Finished Make data base on Sun Jun 19 19:03:55 2022
 
  

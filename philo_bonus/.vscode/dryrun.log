@@ -1,5 +1,29 @@
-make --dry-run --keep-going --print-directory
+make --dry-run --always-make --keep-going --print-directory
 make: Entering directory `/Users/mohamed/Desktop/untitled folder/philo_bonus'
+cc -Wall -Wextra -Werror -pthread  -o main_bonus.o -c main_bonus.c
+echo "\033[0;32m main_bonus.c \033[0m"
+cc -Wall -Wextra -Werror -pthread  -o srcs/ft_parse_bonus.o -c srcs/ft_parse_bonus.c
+echo "\033[0;32m srcs/ft_parse_bonus.c \033[0m"
+cc -Wall -Wextra -Werror -pthread  -o srcs/philo_utils_bonus.o -c srcs/philo_utils_bonus.c
+echo "\033[0;32m srcs/philo_utils_bonus.c \033[0m"
+cc -Wall -Wextra -Werror -pthread  -o srcs/lib.o -c srcs/lib.c
+echo "\033[0;32m srcs/lib.c \033[0m"
+cc -Wall -Wextra -Werror -pthread  -o srcs/_starting_bonus.o -c srcs/_starting_bonus.c
+echo "\033[0;32m srcs/_starting_bonus.c \033[0m"
+cc -Wall -Wextra -Werror -pthread  -o srcs/init_semaphores_bonus.o -c srcs/init_semaphores_bonus.c
+echo "\033[0;32m srcs/init_semaphores_bonus.c \033[0m"
+cc -Wall -Wextra -Werror -pthread  -o srcs/error_bonus.o -c srcs/error_bonus.c
+echo "\033[0;32m srcs/error_bonus.c \033[0m"
+cc -Wall -Wextra -Werror -pthread  -o linkedList/add_back.o -c linkedList/add_back.c
+echo "\033[0;32m linkedList/add_back.c \033[0m"
+cc -Wall -Wextra -Werror -pthread  -o linkedList/add_front.o -c linkedList/add_front.c
+echo "\033[0;32m linkedList/add_front.c \033[0m"
+cc -Wall -Wextra -Werror -pthread  -o linkedList/lst_new.o -c linkedList/lst_new.c
+echo "\033[0;32m linkedList/lst_new.c \033[0m"
+cc -Wall -Wextra -Werror -pthread  -o linkedList/lst_size.o -c linkedList/lst_size.c
+echo "\033[0;32m linkedList/lst_size.c \033[0m"
+cc -Wall -Wextra -Werror -pthread  -o linkedList/lstLast.o -c linkedList/lstLast.c
+echo "\033[0;32m linkedList/lstLast.c \033[0m"
 cc -Wall -Wextra -Werror -pthread main_bonus.c srcs/ft_parse_bonus.c srcs/philo_utils_bonus.c  srcs/lib.c  srcs/_starting_bonus.c srcs/init_semaphores_bonus.c srcs/error_bonus.c linkedList/add_back.c linkedList/add_front.c linkedList/lst_new.c linkedList/lst_size.c linkedList/lstLast.c -o philo_bonus -g
 make: Leaving directory `/Users/mohamed/Desktop/untitled folder/philo_bonus'
  

@@ -1,4 +1,5 @@
 #include "../philo_bonus.h"
+
 static int	cheak_max_int(long *nbr, char str, int *i)
 {	
 	if (ft_isdigit(str) != true)

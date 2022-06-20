@@ -1,0 +1,9336 @@
+1 2 has taken a fork
+1 2 has taken a fork
+1 2 is eating
+2 4 has taken a fork
+2 4 has taken a fork
+2 4 is eating
+201 2 is sleeping
+201 1 has taken a fork
+201 3 has taken a fork
+202 4 is sleeping
+202 1 has taken a fork
+202 3 has taken a fork
+202 1 is eating
+202 3 is eating
+401 2 is thinking
+402 1 is sleeping
+402 3 is sleeping
+402 4 is thinking
+402 2 has taken a fork
+402 4 has taken a fork
+402 2 has taken a fork
+402 4 has taken a fork
+402 2 is eating
+402 4 is eating
+602 2 is sleeping
+602 3 is thinking
+602 1 is thinking
+602 4 is sleeping
+602 3 has taken a fork
+602 1 has taken a fork
+602 3 has taken a fork
+602 1 has taken a fork
+602 3 is eating
+602 1 is eating
+802 1 is sleeping
+802 2 is thinking
+802 3 is sleeping
+802 4 is thinking
+802 2 has taken a fork
+802 4 has taken a fork
+802 2 has taken a fork
+802 4 has taken a fork
+802 2 is eating
+802 4 is eating
+1002 2 is sleeping
+1002 1 is thinking
+1002 3 is thinking
+1002 4 is sleeping
+1002 1 has taken a fork
+1002 3 has taken a fork
+1002 1 has taken a fork
+1002 3 has taken a fork
+1002 1 is eating
+1002 3 is eating
+1202 3 is sleeping
+1202 2 is thinking
+1202 1 is sleeping
+1202 4 is thinking
+1202 2 has taken a fork
+1202 4 has taken a fork
+1202 2 has taken a fork
+1202 4 has taken a fork
+1202 2 is eating
+1202 4 is eating
+1402 1 is thinking
+1402 2 is sleeping
+1402 4 is sleeping
+1402 3 is thinking
+1402 1 has taken a fork
+1402 3 has taken a fork
+1402 1 has taken a fork
+1402 3 has taken a fork
+1402 1 is eating
+1402 3 is eating
+1602 3 is sleeping
+1602 1 is sleeping
+1602 2 is thinking
+1602 4 is thinking
+1602 2 has taken a fork
+1602 4 has taken a fork
+1602 2 has taken a fork
+1602 4 has taken a fork
+1602 2 is eating
+1602 4 is eating
+1802 3 is thinking
+1802 4 is sleeping
+1802 1 is thinking
+1802 2 is sleeping
+1802 3 has taken a fork
+1802 1 has taken a fork
+1802 3 has taken a fork
+1802 1 has taken a fork
+1802 3 is eating
+1802 1 is eating
+2002 2 is thinking
+2002 3 is sleeping
+2002 4 is thinking
+2002 1 is sleeping
+2002 2 has taken a fork
+2002 4 has taken a fork
+2002 2 has taken a fork
+2002 4 has taken a fork
+2002 2 is eating
+2002 4 is eating
+2202 1 is thinking
+2202 4 is sleeping
+2202 2 is sleeping
+2202 3 is thinking
+2202 1 has taken a fork
+2202 3 has taken a fork
+2202 1 has taken a fork
+2202 3 has taken a fork
+2202 1 is eating
+2202 3 is eating
+2402 2 is thinking
+2402 1 is sleeping
+2402 4 is thinking
+2402 3 is sleeping
+2402 2 has taken a fork
+2402 4 has taken a fork
+2402 2 has taken a fork
+2402 4 has taken a fork
+2402 2 is eating
+2402 4 is eating
+2602 3 is thinking
+2602 4 is sleeping
+2602 1 is thinking
+2602 2 is sleeping
+2602 3 has taken a fork
+2602 1 has taken a fork
+2602 3 has taken a fork
+2602 1 has taken a fork
+2602 3 is eating
+2602 1 is eating
+2802 2 is thinking
+2802 3 is sleeping
+2802 1 is sleeping
+2802 4 is thinking
+2802 2 has taken a fork
+2802 4 has taken a fork
+2802 2 has taken a fork
+2802 4 has taken a fork
+2802 2 is eating
+2802 4 is eating
+3002 2 is sleeping
+3002 4 is sleeping
+3002 1 is thinking
+3002 3 is thinking
+3002 1 has taken a fork
+3002 3 has taken a fork
+3002 1 has taken a fork
+3002 3 has taken a fork
+3002 1 is eating
+3002 3 is eating
+3202 4 is thinking
+3202 3 is sleeping
+3202 1 is sleeping
+3202 2 is thinking
+3202 4 has taken a fork
+3202 2 has taken a fork
+3202 4 has taken a fork
+3202 2 has taken a fork
+3202 4 is eating
+3202 2 is eating
+3402 1 is thinking
+3402 3 is thinking
+3402 2 is sleeping
+3402 4 is sleeping
+3402 1 has taken a fork
+3402 3 has taken a fork
+3402 1 has taken a fork
+3402 3 has taken a fork
+3402 1 is eating
+3402 3 is eating
+3602 4 is thinking
+3602 3 is sleeping
+3602 1 is sleeping
+3602 2 is thinking
+3602 4 has taken a fork
+3602 2 has taken a fork
+3602 4 has taken a fork
+3602 2 has taken a fork
+3602 4 is eating
+3602 2 is eating
+3802 1 is thinking
+3802 2 is sleeping
+3802 4 is sleeping
+3802 1 has taken a fork
+3802 3 is thinking
+3802 1 has taken a fork
+3802 3 has taken a fork
+3802 1 is eating
+3802 3 has taken a fork
+3802 3 is eating
+4002 2 is thinking
+4002 1 is sleeping
+4002 4 is thinking
+4002 3 is sleeping
+4002 2 has taken a fork
+4002 4 has taken a fork
+4002 2 has taken a fork
+4002 4 has taken a fork
+4002 2 is eating
+4002 4 is eating
+4202 4 is sleeping
+4202 2 is sleeping
+4202 1 is thinking
+4202 3 is thinking
+4202 1 has taken a fork
+4202 3 has taken a fork
+4202 1 has taken a fork
+4202 3 has taken a fork
+4202 1 is eating
+4202 3 is eating
+4402 2 is thinking
+4402 1 is sleeping
+4402 4 is thinking
+4402 3 is sleeping
+4402 2 has taken a fork
+4402 4 has taken a fork
+4402 2 has taken a fork
+4402 4 has taken a fork
+4402 2 is eating
+4402 4 is eating
+4602 2 is sleeping
+4602 4 is sleeping
+4602 3 is thinking
+4602 1 is thinking
+4602 3 has taken a fork
+4602 1 has taken a fork
+4602 3 has taken a fork
+4602 1 has taken a fork
+4602 3 is eating
+4602 1 is eating
+4802 3 is sleeping
+4802 1 is sleeping
+4802 2 is thinking
+4802 4 is thinking
+4802 2 has taken a fork
+4802 4 has taken a fork
+4802 2 has taken a fork
+4802 4 has taken a fork
+4802 2 is eating
+4802 4 is eating
+5002 3 is thinking
+5002 1 is thinking
+5002 4 is sleeping
+5002 2 is sleeping
+5002 3 has taken a fork
+5002 1 has taken a fork
+5002 3 has taken a fork
+5002 1 has taken a fork
+5002 3 is eating
+5002 1 is eating
+5202 4 is thinking
+5202 2 is thinking
+5202 1 is sleeping
+5202 3 is sleeping
+5202 4 has taken a fork
+5202 2 has taken a fork
+5202 4 has taken a fork
+5202 2 has taken a fork
+5202 4 is eating
+5202 2 is eating
+5402 3 is thinking
+5402 2 is sleeping
+5402 1 is thinking
+5402 4 is sleeping
+5402 3 has taken a fork
+5402 1 has taken a fork
+5402 3 has taken a fork
+5402 1 has taken a fork
+5402 3 is eating
+5402 1 is eating
+5602 4 is thinking
+5602 3 is sleeping
+5602 2 is thinking
+5602 1 is sleeping
+5602 4 has taken a fork
+5602 2 has taken a fork
+5602 4 has taken a fork
+5602 2 has taken a fork
+5602 4 is eating
+5602 2 is eating
+5802 3 is thinking
+5802 2 is sleeping
+5802 1 is thinking
+5802 4 is sleeping
+5802 3 has taken a fork
+5802 1 has taken a fork
+5802 3 has taken a fork
+5802 1 has taken a fork
+5802 3 is eating
+5802 1 is eating
+6002 4 is thinking
+6002 1 is sleeping
+6002 3 is sleeping
+6002 2 is thinking
+6002 4 has taken a fork
+6002 2 has taken a fork
+6002 4 has taken a fork
+6002 2 has taken a fork
+6002 4 is eating
+6002 2 is eating
+6202 3 is thinking
+6202 4 is sleeping
+6202 1 is thinking
+6202 2 is sleeping
+6202 3 has taken a fork
+6202 1 has taken a fork
+6202 3 has taken a fork
+6202 1 has taken a fork
+6202 3 is eating
+6202 1 is eating
+6402 1 is sleeping
+6402 3 is sleeping
+6402 2 is thinking
+6402 4 is thinking
+6402 2 has taken a fork
+6402 4 has taken a fork
+6402 2 has taken a fork
+6402 4 has taken a fork
+6402 2 is eating
+6402 4 is eating
+6602 1 is thinking
+6602 4 is sleeping
+6602 3 is thinking
+6602 2 is sleeping
+6602 1 has taken a fork
+6602 3 has taken a fork
+6602 1 has taken a fork
+6602 3 has taken a fork
+6602 1 is eating
+6602 3 is eating
+6802 2 is thinking
+6802 3 is sleeping
+6802 4 is thinking
+6802 1 is sleeping
+6802 2 has taken a fork
+6802 4 has taken a fork
+6802 2 has taken a fork
+6802 4 has taken a fork
+6802 2 is eating
+6802 4 is eating
+7002 2 is sleeping
+7002 1 is thinking
+7002 4 is sleeping
+7002 3 is thinking
+7002 1 has taken a fork
+7002 3 has taken a fork
+7002 1 has taken a fork
+7002 3 has taken a fork
+7002 1 is eating
+7002 3 is eating
+7202 3 is sleeping
+7202 1 is sleeping
+7202 4 is thinking
+7202 2 is thinking
+7202 4 has taken a fork
+7202 2 has taken a fork
+7202 4 has taken a fork
+7202 2 has taken a fork
+7202 4 is eating
+7202 2 is eating
+7402 4 is sleeping
+7402 1 is thinking
+7402 3 is thinking
+7402 2 is sleeping
+7402 1 has taken a fork
+7402 3 has taken a fork
+7402 1 has taken a fork
+7402 3 has taken a fork
+7402 1 is eating
+7402 3 is eating
+7602 2 is thinking
+7602 3 is sleeping
+7602 4 is thinking
+7602 1 is sleeping
+7602 2 has taken a fork
+7602 4 has taken a fork
+7602 2 has taken a fork
+7602 4 has taken a fork
+7602 2 is eating
+7602 4 is eating
+7802 3 is thinking
+7802 4 is sleeping
+7802 2 is sleeping
+7802 1 is thinking
+7802 3 has taken a fork
+7802 1 has taken a fork
+7802 3 has taken a fork
+7802 1 has taken a fork
+7802 3 is eating
+7802 1 is eating
+8002 4 is thinking
+8002 2 is thinking
+8002 1 is sleeping
+8002 3 is sleeping
+8002 4 has taken a fork
+8002 2 has taken a fork
+8002 4 has taken a fork
+8002 2 has taken a fork
+8002 4 is eating
+8002 2 is eating
+8202 3 is thinking
+8202 2 is sleeping
+8202 1 is thinking
+8202 4 is sleeping
+8202 3 has taken a fork
+8202 1 has taken a fork
+8202 3 has taken a fork
+8202 1 has taken a fork
+8202 3 is eating
+8202 1 is eating
+8402 4 is thinking
+8402 3 is sleeping
+8402 2 is thinking
+8402 1 is sleeping
+8402 4 has taken a fork
+8402 2 has taken a fork
+8402 4 has taken a fork
+8402 2 has taken a fork
+8402 4 is eating
+8402 2 is eating
+8602 4 is sleeping
+8602 1 is thinking
+8602 3 is thinking
+8602 2 is sleeping
+8602 1 has taken a fork
+8602 3 has taken a fork
+8602 1 has taken a fork
+8602 3 has taken a fork
+8602 1 is eating
+8602 3 is eating
+8802 4 is thinking
+8802 2 is thinking
+8802 1 is sleeping
+8802 3 is sleeping
+8802 4 has taken a fork
+8802 2 has taken a fork
+8802 4 has taken a fork
+8802 2 has taken a fork
+8802 4 is eating
+8802 2 is eating
+9002 4 is sleeping
+9002 1 is thinking
+9002 2 is sleeping
+9002 3 is thinking
+9002 1 has taken a fork
+9002 3 has taken a fork
+9002 1 has taken a fork
+9002 3 has taken a fork
+9002 1 is eating
+9002 3 is eating
+9202 4 is thinking
+9202 3 is sleeping
+9202 2 is thinking
+9202 1 is sleeping
+9202 4 has taken a fork
+9202 2 has taken a fork
+9202 4 has taken a fork
+9202 2 has taken a fork
+9202 4 is eating
+9202 2 is eating
+9402 1 is thinking
+9402 3 is thinking
+9402 4 is sleeping
+9402 2 is sleeping
+9402 1 has taken a fork
+9402 3 has taken a fork
+9402 1 has taken a fork
+9402 3 has taken a fork
+9402 1 is eating
+9402 3 is eating
+9602 3 is sleeping
+9602 2 is thinking
+9602 4 is thinking
+9602 1 is sleeping
+9602 2 has taken a fork
+9602 4 has taken a fork
+9602 2 has taken a fork
+9602 4 has taken a fork
+9602 2 is eating
+9602 4 is eating
+9802 3 is thinking
+9802 4 is sleeping
+9802 2 is sleeping
+9802 1 is thinking
+9802 3 has taken a fork
+9802 1 has taken a fork
+9802 3 has taken a fork
+9802 1 has taken a fork
+9802 3 is eating
+9802 1 is eating
+10002 4 is thinking
+10002 2 is thinking
+10002 3 is sleeping
+10002 1 is sleeping
+10002 4 has taken a fork
+10002 2 has taken a fork
+10002 4 has taken a fork
+10002 2 has taken a fork
+10002 4 is eating
+10002 2 is eating
+10202 1 is thinking
+10202 2 is sleeping
+10202 4 is sleeping
+10202 3 is thinking
+10202 1 has taken a fork
+10202 3 has taken a fork
+10202 1 has taken a fork
+10202 3 has taken a fork
+10202 1 is eating
+10202 3 is eating
+10402 1 is sleeping
+10402 3 is sleeping
+10402 2 is thinking
+10402 4 is thinking
+10402 2 has taken a fork
+10402 4 has taken a fork
+10402 2 has taken a fork
+10402 4 has taken a fork
+10402 2 is eating
+10402 4 is eating
+10602 3 is thinking
+10602 2 is sleeping
+10602 1 is thinking
+10602 4 is sleeping
+10602 3 has taken a fork
+10602 1 has taken a fork
+10602 3 has taken a fork
+10602 1 has taken a fork
+10602 3 is eating
+10602 1 is eating
+10802 4 is thinking
+10802 2 is thinking
+10802 3 is sleeping
+10802 1 is sleeping
+10802 4 has taken a fork
+10802 2 has taken a fork
+10802 4 has taken a fork
+10802 2 has taken a fork
+10802 4 is eating
+10802 2 is eating
+11002 4 is sleeping
+11002 2 is sleeping
+11002 1 is thinking
+11002 3 is thinking
+11002 1 has taken a fork
+11002 3 has taken a fork
+11002 1 has taken a fork
+11002 3 has taken a fork
+11002 1 is eating
+11002 3 is eating
+11202 2 is thinking
+11202 1 is sleeping
+11202 4 is thinking
+11202 3 is sleeping
+11202 2 has taken a fork
+11202 4 has taken a fork
+11202 2 has taken a fork
+11202 4 has taken a fork
+11202 2 is eating
+11202 4 is eating
+11402 3 is thinking
+11402 1 is thinking
+11402 2 is sleeping
+11402 4 is sleeping
+11402 3 has taken a fork
+11402 1 has taken a fork
+11402 3 has taken a fork
+11402 1 has taken a fork
+11402 3 is eating
+11402 1 is eating
+11602 2 is thinking
+11602 1 is sleeping
+11602 3 is sleeping
+11602 4 is thinking
+11602 2 has taken a fork
+11602 4 has taken a fork
+11602 2 has taken a fork
+11602 4 has taken a fork
+11602 2 is eating
+11602 4 is eating
+11802 1 is thinking
+11802 3 is thinking
+11802 4 is sleeping
+11802 2 is sleeping
+11802 1 has taken a fork
+11802 3 has taken a fork
+11802 1 has taken a fork
+11802 3 has taken a fork
+11802 1 is eating
+11802 3 is eating
+12002 4 is thinking
+12002 3 is sleeping
+12002 4 has taken a fork
+12002 2 is thinking
+12002 1 is sleeping
+12002 4 has taken a fork
+12002 2 has taken a fork
+12002 4 is eating
+12002 2 has taken a fork
+12002 2 is eating
+12202 1 is thinking
+12202 4 is sleeping
+12202 2 is sleeping
+12202 3 is thinking
+12202 1 has taken a fork
+12202 3 has taken a fork
+12202 1 has taken a fork
+12202 3 has taken a fork
+12202 1 is eating
+12202 3 is eating
+12402 2 is thinking
+12402 3 is sleeping
+12402 4 is thinking
+12402 1 is sleeping
+12402 2 has taken a fork
+12402 4 has taken a fork
+12402 2 has taken a fork
+12402 4 has taken a fork
+12402 2 is eating
+12402 4 is eating
+12602 1 is thinking
+12602 2 is sleeping
+12602 3 is thinking
+12602 4 is sleeping
+12602 1 has taken a fork
+12602 3 has taken a fork
+12602 1 has taken a fork
+12602 3 has taken a fork
+12602 1 is eating
+12602 3 is eating
+12802 2 is thinking
+12802 3 is sleeping
+12802 1 is sleeping
+12802 4 is thinking
+12802 2 has taken a fork
+12802 4 has taken a fork
+12802 2 has taken a fork
+12802 4 has taken a fork
+12802 2 is eating
+12802 4 is eating
+13002 1 is thinking
+13002 4 is sleeping
+13002 3 is thinking
+13002 2 is sleeping
+13002 1 has taken a fork
+13002 3 has taken a fork
+13002 1 has taken a fork
+13002 3 has taken a fork
+13002 1 is eating
+13002 3 is eating
+13202 3 is sleeping
+13202 2 is thinking
+13202 1 is sleeping
+13202 4 is thinking
+13202 2 has taken a fork
+13202 4 has taken a fork
+13202 2 has taken a fork
+13202 4 has taken a fork
+13202 2 is eating
+13202 4 is eating
+13402 3 is thinking
+13402 2 is sleeping
+13402 4 is sleeping
+13402 1 is thinking
+13402 3 has taken a fork
+13402 1 has taken a fork
+13402 3 has taken a fork
+13402 1 has taken a fork
+13402 3 is eating
+13402 1 is eating
+13602 2 is thinking
+13602 3 is sleeping
+13602 1 is sleeping
+13602 4 is thinking
+13602 2 has taken a fork
+13602 4 has taken a fork
+13602 2 has taken a fork
+13602 4 has taken a fork
+13602 2 is eating
+13602 4 is eating
+13802 2 is sleeping
+13802 4 is sleeping
+13802 3 is thinking
+13802 1 is thinking
+13802 3 has taken a fork
+13802 1 has taken a fork
+13802 3 has taken a fork
+13802 1 has taken a fork
+13802 3 is eating
+13802 1 is eating
+14002 1 is sleeping
+14002 3 is sleeping
+14002 2 is thinking
+14002 4 is thinking
+14002 2 has taken a fork
+14002 4 has taken a fork
+14002 2 has taken a fork
+14002 4 has taken a fork
+14002 2 is eating
+14002 4 is eating
+14202 1 is thinking
+14202 2 is sleeping
+14202 3 is thinking
+14202 4 is sleeping
+14202 1 has taken a fork
+14202 3 has taken a fork
+14202 1 has taken a fork
+14202 3 has taken a fork
+14202 1 is eating
+14202 3 is eating
+14402 1 is sleeping
+14402 3 is sleeping
+14402 2 is thinking
+14402 4 is thinking
+14402 2 has taken a fork
+14402 4 has taken a fork
+14402 2 has taken a fork
+14402 4 has taken a fork
+14402 2 is eating
+14402 4 is eating
+14602 2 is sleeping
+14602 4 is sleeping
+14602 1 is thinking
+14602 3 is thinking
+14602 1 has taken a fork
+14602 3 has taken a fork
+14602 1 has taken a fork
+14602 3 has taken a fork
+14602 1 is eating
+14602 3 is eating
+14802 3 is sleeping
+14802 1 is sleeping
+14802 4 is thinking
+14802 2 is thinking
+14802 4 has taken a fork
+14802 2 has taken a fork
+14802 4 has taken a fork
+14802 2 has taken a fork
+14802 4 is eating
+14802 2 is eating
+15002 1 is thinking
+15002 2 is sleeping
+15002 4 is sleeping
+15002 3 is thinking
+15002 1 has taken a fork
+15002 3 has taken a fork
+15002 1 has taken a fork
+15002 3 has taken a fork
+15002 1 is eating
+15002 3 is eating
+15202 3 is sleeping
+15202 4 is thinking
+15202 2 is thinking
+15202 1 is sleeping
+15202 4 has taken a fork
+15202 2 has taken a fork
+15202 4 has taken a fork
+15202 2 has taken a fork
+15202 4 is eating
+15202 2 is eating
+15402 1 is thinking
+15402 4 is sleeping
+15402 2 is sleeping
+15402 3 is thinking
+15402 1 has taken a fork
+15402 3 has taken a fork
+15402 1 has taken a fork
+15402 3 has taken a fork
+15402 1 is eating
+15402 3 is eating
+15602 4 is thinking
+15602 2 is thinking
+15602 1 is sleeping
+15602 4 has taken a fork
+15602 2 has taken a fork
+15602 3 is sleeping
+15602 4 has taken a fork
+15602 2 has taken a fork
+15602 4 is eating
+15602 2 is eating
+15802 2 is sleeping
+15802 4 is sleeping
+15802 1 is thinking
+15802 3 is thinking
+15802 1 has taken a fork
+15802 3 has taken a fork
+15802 1 has taken a fork
+15802 3 has taken a fork
+15802 1 is eating
+15802 3 is eating
+16002 2 is thinking
+16002 1 is sleeping
+16002 4 is thinking
+16002 3 is sleeping
+16002 2 has taken a fork
+16002 4 has taken a fork
+16002 2 has taken a fork
+16002 4 has taken a fork
+16002 2 is eating
+16002 4 is eating
+16202 1 is thinking
+16202 2 is sleeping
+16202 3 is thinking
+16202 4 is sleeping
+16202 1 has taken a fork
+16202 3 has taken a fork
+16202 1 has taken a fork
+16202 3 has taken a fork
+16202 1 is eating
+16202 3 is eating
+16402 3 is sleeping
+16402 4 is thinking
+16402 2 is thinking
+16402 1 is sleeping
+16402 4 has taken a fork
+16402 2 has taken a fork
+16402 4 has taken a fork
+16402 2 has taken a fork
+16402 4 is eating
+16402 2 is eating
+16602 2 is sleeping
+16602 4 is sleeping
+16602 1 is thinking
+16602 3 is thinking
+16602 1 has taken a fork
+16602 3 has taken a fork
+16602 1 has taken a fork
+16602 3 has taken a fork
+16602 1 is eating
+16602 3 is eating
+16802 1 is sleeping
+16802 2 is thinking
+16802 2 has taken a fork
+16802 3 is sleeping
+16802 4 is thinking
+16802 2 has taken a fork
+16802 4 has taken a fork
+16802 2 is eating
+16802 4 has taken a fork
+16802 4 is eating
+17002 3 is thinking
+17002 4 is sleeping
+17002 1 is thinking
+17002 2 is sleeping
+17002 3 has taken a fork
+17002 1 has taken a fork
+17002 3 has taken a fork
+17002 1 has taken a fork
+17002 3 is eating
+17002 1 is eating
+17202 4 is thinking
+17202 3 is sleeping
+17202 1 is sleeping
+17202 2 is thinking
+17202 4 has taken a fork
+17202 2 has taken a fork
+17202 4 has taken a fork
+17202 2 has taken a fork
+17202 4 is eating
+17202 2 is eating
+17402 4 is sleeping
+17402 3 is thinking
+17402 2 is sleeping
+17402 1 is thinking
+17402 3 has taken a fork
+17402 1 has taken a fork
+17402 3 has taken a fork
+17402 1 has taken a fork
+17402 3 is eating
+17402 1 is eating
+17602 1 is sleeping
+17602 4 is thinking
+17602 3 is sleeping
+17602 2 is thinking
+17602 4 has taken a fork
+17602 2 has taken a fork
+17602 4 has taken a fork
+17602 2 has taken a fork
+17602 4 is eating
+17602 2 is eating
+17802 1 is thinking
+17802 3 is thinking
+17802 4 is sleeping
+17802 1 has taken a fork
+17802 2 is sleeping
+17802 3 has taken a fork
+17802 1 has taken a fork
+17802 3 has taken a fork
+17802 1 is eating
+17802 3 is eating
+18002 4 is thinking
+18002 3 is sleeping
+18002 1 is sleeping
+18002 2 is thinking
+18002 4 has taken a fork
+18002 2 has taken a fork
+18002 4 has taken a fork
+18002 2 has taken a fork
+18002 4 is eating
+18002 2 is eating
+18202 3 is thinking
+18202 1 is thinking
+18202 2 is sleeping
+18202 4 is sleeping
+18202 3 has taken a fork
+18202 1 has taken a fork
+18202 3 has taken a fork
+18202 1 has taken a fork
+18202 3 is eating
+18202 1 is eating
+18402 4 is thinking
+18402 1 is sleeping
+18402 2 is thinking
+18402 3 is sleeping
+18402 4 has taken a fork
+18402 2 has taken a fork
+18402 4 has taken a fork
+18402 2 has taken a fork
+18402 4 is eating
+18402 2 is eating
+18602 1 is thinking
+18602 4 is sleeping
+18602 1 has taken a fork
+18602 1 has taken a fork
+18602 1 is eating
+18602 3 is thinking
+18602 2 is sleeping
+18602 3 has taken a fork
+18602 3 has taken a fork
+18602 3 is eating
+18802 3 is sleeping
+18802 1 is sleeping
+18802 2 is thinking
+18802 4 is thinking
+18802 2 has taken a fork
+18802 4 has taken a fork
+18802 2 has taken a fork
+18802 4 has taken a fork
+18802 2 is eating
+18802 4 is eating
+19002 1 is thinking
+19002 2 is sleeping
+19002 4 is sleeping
+19002 3 is thinking
+19002 1 has taken a fork
+19002 3 has taken a fork
+19002 1 has taken a fork
+19002 3 has taken a fork
+19002 1 is eating
+19002 3 is eating
+19202 4 is thinking
+19202 3 is sleeping
+19202 2 is thinking
+19202 1 is sleeping
+19202 4 has taken a fork
+19202 2 has taken a fork
+19202 4 has taken a fork
+19202 2 has taken a fork
+19202 4 is eating
+19202 2 is eating
+19402 3 is thinking
+19402 2 is sleeping
+19402 4 is sleeping
+19402 1 is thinking
+19402 3 has taken a fork
+19402 1 has taken a fork
+19402 3 has taken a fork
+19402 1 has taken a fork
+19402 3 is eating
+19402 1 is eating
+19602 4 is thinking
+19602 2 is thinking
+19602 3 is sleeping
+19602 1 is sleeping
+19602 4 has taken a fork
+19602 2 has taken a fork
+19602 4 has taken a fork
+19602 2 has taken a fork
+19602 4 is eating
+19602 2 is eating
+19802 4 is sleeping
+19802 3 is thinking
+19802 2 is sleeping
+19802 1 is thinking
+19802 3 has taken a fork
+19802 1 has taken a fork
+19802 3 has taken a fork
+19802 1 has taken a fork
+19802 3 is eating
+19802 1 is eating
+20002 4 is thinking
+20002 1 is sleeping
+20002 2 is thinking
+20002 3 is sleeping
+20002 4 has taken a fork
+20002 2 has taken a fork
+20002 4 has taken a fork
+20002 2 has taken a fork
+20002 4 is eating
+20002 2 is eating
+20202 1 is thinking
+20202 4 is sleeping
+20202 2 is sleeping
+20202 3 is thinking
+20202 1 has taken a fork
+20202 3 has taken a fork
+20202 1 has taken a fork
+20202 3 has taken a fork
+20202 1 is eating
+20202 3 is eating
+20402 1 is sleeping
+20402 3 is sleeping
+20402 2 is thinking
+20402 4 is thinking
+20402 2 has taken a fork
+20402 4 has taken a fork
+20402 2 has taken a fork
+20402 4 has taken a fork
+20402 2 is eating
+20402 4 is eating
+20602 2 is sleeping
+20602 1 is thinking
+20602 1 has taken a fork
+20602 1 has taken a fork
+20602 1 is eating
+20602 3 is thinking
+20602 4 is sleeping
+20602 3 has taken a fork
+20602 3 has taken a fork
+20602 3 is eating
+20802 4 is thinking
+20802 1 is sleeping
+20802 2 is thinking
+20802 3 is sleeping
+20802 4 has taken a fork
+20802 2 has taken a fork
+20802 4 has taken a fork
+20802 2 has taken a fork
+20802 4 is eating
+20802 2 is eating
+21002 3 is thinking
+21002 1 is thinking
+21002 4 is sleeping
+21002 2 is sleeping
+21002 3 has taken a fork
+21002 1 has taken a fork
+21002 3 has taken a fork
+21002 1 has taken a fork
+21002 3 is eating
+21002 1 is eating
+21202 4 is thinking
+21202 1 is sleeping
+21202 2 is thinking
+21202 3 is sleeping
+21202 4 has taken a fork
+21202 2 has taken a fork
+21202 4 has taken a fork
+21202 2 has taken a fork
+21202 4 is eating
+21202 2 is eating
+21402 1 is thinking
+21402 2 is sleeping
+21402 4 is sleeping
+21402 3 is thinking
+21402 1 has taken a fork
+21402 3 has taken a fork
+21402 1 has taken a fork
+21402 3 has taken a fork
+21402 1 is eating
+21402 3 is eating
+21602 4 is thinking
+21602 1 is sleeping
+21602 2 is thinking
+21602 3 is sleeping
+21602 4 has taken a fork
+21602 2 has taken a fork
+21602 4 has taken a fork
+21602 2 has taken a fork
+21602 4 is eating
+21602 2 is eating
+21802 1 is thinking
+21802 3 is thinking
+21802 2 is sleeping
+21802 4 is sleeping
+21802 1 has taken a fork
+21802 3 has taken a fork
+21802 1 has taken a fork
+21802 3 has taken a fork
+21802 1 is eating
+21802 3 is eating
+22002 3 is sleeping
+22002 1 is sleeping
+22002 2 is thinking
+22002 4 is thinking
+22002 2 has taken a fork
+22002 4 has taken a fork
+22002 2 has taken a fork
+22002 4 has taken a fork
+22002 2 is eating
+22002 4 is eating
+22202 1 is thinking
+22202 3 is thinking
+22202 2 is sleeping
+22202 4 is sleeping
+22202 1 has taken a fork
+22202 3 has taken a fork
+22202 1 has taken a fork
+22202 3 has taken a fork
+22202 1 is eating
+22202 3 is eating
+22402 2 is thinking
+22402 4 is thinking
+22402 1 is sleeping
+22402 3 is sleeping
+22402 2 has taken a fork
+22402 4 has taken a fork
+22402 2 has taken a fork
+22402 4 has taken a fork
+22402 2 is eating
+22402 4 is eating
+22602 3 is thinking
+22602 2 is sleeping
+22602 4 is sleeping
+22602 1 is thinking
+22602 3 has taken a fork
+22602 1 has taken a fork
+22602 3 has taken a fork
+22602 1 has taken a fork
+22602 3 is eating
+22602 1 is eating
+22802 2 is thinking
+22802 1 is sleeping
+22802 4 is thinking
+22802 3 is sleeping
+22802 2 has taken a fork
+22802 4 has taken a fork
+22802 2 has taken a fork
+22802 4 has taken a fork
+22802 2 is eating
+22802 4 is eating
+23002 4 is sleeping
+23002 2 is sleeping
+23002 3 is thinking
+23002 1 is thinking
+23002 3 has taken a fork
+23002 1 has taken a fork
+23002 3 has taken a fork
+23002 1 has taken a fork
+23002 3 is eating
+23002 1 is eating
+23202 2 is thinking
+23202 1 is sleeping
+23202 3 is sleeping
+23202 4 is thinking
+23202 2 has taken a fork
+23202 4 has taken a fork
+23202 2 has taken a fork
+23202 4 has taken a fork
+23202 2 is eating
+23202 4 is eating
+23402 2 is sleeping
+23402 3 is thinking
+23402 1 is thinking
+23402 4 is sleeping
+23402 3 has taken a fork
+23402 1 has taken a fork
+23402 3 has taken a fork
+23402 1 has taken a fork
+23402 3 is eating
+23402 1 is eating
+23602 1 is sleeping
+23602 3 is sleeping
+23602 4 is thinking
+23602 2 is thinking
+23602 4 has taken a fork
+23602 2 has taken a fork
+23602 4 has taken a fork
+23602 2 has taken a fork
+23602 4 is eating
+23602 2 is eating
+23802 3 is thinking
+23802 2 is sleeping
+23802 4 is sleeping
+23802 1 is thinking
+23802 3 has taken a fork
+23802 1 has taken a fork
+23802 3 has taken a fork
+23802 1 has taken a fork
+23802 3 is eating
+23802 1 is eating
+24002 4 is thinking
+24002 2 is thinking
+24002 1 is sleeping
+24002 3 is sleeping
+24002 4 has taken a fork
+24002 2 has taken a fork
+24002 4 has taken a fork
+24002 2 has taken a fork
+24002 4 is eating
+24002 2 is eating
+24202 3 is thinking
+24202 4 is sleeping
+24202 2 is sleeping
+24202 1 is thinking
+24202 3 has taken a fork
+24202 1 has taken a fork
+24202 3 has taken a fork
+24202 1 has taken a fork
+24202 3 is eating
+24202 1 is eating
+24402 2 is thinking
+24402 4 is thinking
+24402 3 is sleeping
+24402 1 is sleeping
+24402 2 has taken a fork
+24402 4 has taken a fork
+24402 2 has taken a fork
+24402 4 has taken a fork
+24402 2 is eating
+24402 4 is eating
+24602 3 is thinking
+24602 1 is thinking
+24602 2 is sleeping
+24602 4 is sleeping
+24602 3 has taken a fork
+24602 1 has taken a fork
+24602 3 has taken a fork
+24602 1 has taken a fork
+24602 3 is eating
+24602 1 is eating
+24802 2 is thinking
+24802 4 is thinking
+24802 1 is sleeping
+24802 3 is sleeping
+24802 2 has taken a fork
+24802 4 has taken a fork
+24802 2 has taken a fork
+24802 4 has taken a fork
+24802 2 is eating
+24802 4 is eating
+25002 1 is thinking
+25002 2 is sleeping
+25002 3 is thinking
+25002 4 is sleeping
+25002 1 has taken a fork
+25002 3 has taken a fork
+25002 1 has taken a fork
+25002 3 has taken a fork
+25002 1 is eating
+25002 3 is eating
+25202 2 is thinking
+25202 3 is sleeping
+25202 4 is thinking
+25202 1 is sleeping
+25202 2 has taken a fork
+25202 4 has taken a fork
+25202 2 has taken a fork
+25202 4 has taken a fork
+25202 2 is eating
+25202 4 is eating
+25402 4 is sleeping
+25402 2 is sleeping
+25402 1 is thinking
+25402 3 is thinking
+25402 1 has taken a fork
+25402 3 has taken a fork
+25402 1 has taken a fork
+25402 3 has taken a fork
+25402 1 is eating
+25402 3 is eating
+25602 4 is thinking
+25602 3 is sleeping
+25602 2 is thinking
+25602 1 is sleeping
+25602 4 has taken a fork
+25602 2 has taken a fork
+25602 4 has taken a fork
+25602 2 has taken a fork
+25602 4 is eating
+25602 2 is eating
+25802 1 is thinking
+25802 4 is sleeping
+25802 2 is sleeping
+25802 3 is thinking
+25802 1 has taken a fork
+25802 3 has taken a fork
+25802 1 has taken a fork
+25802 3 has taken a fork
+25802 1 is eating
+25802 3 is eating
+26002 2 is thinking
+26002 3 is sleeping
+26002 1 is sleeping
+26002 4 is thinking
+26002 2 has taken a fork
+26002 4 has taken a fork
+26002 2 has taken a fork
+26002 4 has taken a fork
+26002 2 is eating
+26002 4 is eating
+26202 1 is thinking
+26202 4 is sleeping
+26202 3 is thinking
+26202 2 is sleeping
+26202 1 has taken a fork
+26202 3 has taken a fork
+26202 1 has taken a fork
+26202 3 has taken a fork
+26202 1 is eating
+26202 3 is eating
+26402 3 is sleeping
+26402 1 is sleeping
+26402 4 is thinking
+26402 2 is thinking
+26402 4 has taken a fork
+26402 2 has taken a fork
+26402 4 has taken a fork
+26402 2 has taken a fork
+26402 4 is eating
+26402 2 is eating
+26602 1 is thinking
+26602 4 is sleeping
+26602 3 is thinking
+26602 2 is sleeping
+26602 1 has taken a fork
+26602 3 has taken a fork
+26602 1 has taken a fork
+26602 3 has taken a fork
+26602 1 is eating
+26602 3 is eating
+26802 4 is thinking
+26802 3 is sleeping
+26802 1 is sleeping
+26802 2 is thinking
+26802 4 has taken a fork
+26802 2 has taken a fork
+26802 4 has taken a fork
+26802 2 has taken a fork
+26802 4 is eating
+26802 2 is eating
+27002 4 is sleeping
+27002 2 is sleeping
+27002 1 is thinking
+27002 3 is thinking
+27002 1 has taken a fork
+27002 3 has taken a fork
+27002 1 has taken a fork
+27002 3 has taken a fork
+27002 1 is eating
+27002 3 is eating
+27202 2 is thinking
+27202 3 is sleeping
+27202 4 is thinking
+27202 1 is sleeping
+27202 2 has taken a fork
+27202 4 has taken a fork
+27202 2 has taken a fork
+27202 4 has taken a fork
+27202 2 is eating
+27202 4 is eating
+27402 3 is thinking
+27402 1 is thinking
+27402 4 is sleeping
+27402 2 is sleeping
+27402 3 has taken a fork
+27402 1 has taken a fork
+27402 3 has taken a fork
+27402 1 has taken a fork
+27402 3 is eating
+27402 1 is eating
+27602 1 is sleeping
+27602 4 is thinking
+27602 3 is sleeping
+27602 2 is thinking
+27602 4 has taken a fork
+27602 2 has taken a fork
+27602 4 has taken a fork
+27602 2 has taken a fork
+27602 4 is eating
+27602 2 is eating
+27802 3 is thinking
+27802 2 is sleeping
+27802 1 is thinking
+27802 4 is sleeping
+27802 3 has taken a fork
+27802 1 has taken a fork
+27802 3 has taken a fork
+27802 1 has taken a fork
+27802 3 is eating
+27802 1 is eating
+28002 1 is sleeping
+28002 3 is sleeping
+28002 2 is thinking
+28002 4 is thinking
+28002 2 has taken a fork
+28002 4 has taken a fork
+28002 2 has taken a fork
+28002 4 has taken a fork
+28002 2 is eating
+28002 4 is eating
+28202 3 is thinking
+28202 4 is sleeping
+28202 2 is sleeping
+28202 1 is thinking
+28202 3 has taken a fork
+28202 1 has taken a fork
+28202 3 has taken a fork
+28202 1 has taken a fork
+28202 3 is eating
+28202 1 is eating
+28402 2 is thinking
+28402 4 is thinking
+28402 1 is sleeping
+28402 3 is sleeping
+28402 2 has taken a fork
+28402 4 has taken a fork
+28402 2 has taken a fork
+28402 4 has taken a fork
+28402 2 is eating
+28402 4 is eating
+28602 1 is thinking
+28602 2 is sleeping
+28602 3 is thinking
+28602 4 is sleeping
+28602 1 has taken a fork
+28602 3 has taken a fork
+28602 1 has taken a fork
+28602 3 has taken a fork
+28602 1 is eating
+28602 3 is eating
+28802 4 is thinking
+28802 3 is sleeping
+28802 2 is thinking
+28802 1 is sleeping
+28802 4 has taken a fork
+28802 2 has taken a fork
+28802 4 has taken a fork
+28802 2 has taken a fork
+28802 4 is eating
+28802 2 is eating
+29002 3 is thinking
+29002 2 is sleeping
+29002 4 is sleeping
+29002 1 is thinking
+29002 3 has taken a fork
+29002 1 has taken a fork
+29002 3 has taken a fork
+29002 1 has taken a fork
+29002 3 is eating
+29002 1 is eating
+29202 2 is thinking
+29202 1 is sleeping
+29202 3 is sleeping
+29202 4 is thinking
+29202 2 has taken a fork
+29202 4 has taken a fork
+29202 2 has taken a fork
+29202 4 has taken a fork
+29202 2 is eating
+29202 4 is eating
+29402 3 is thinking
+29402 4 is sleeping
+29402 2 is sleeping
+29402 1 is thinking
+29402 3 has taken a fork
+29402 1 has taken a fork
+29402 3 has taken a fork
+29402 1 has taken a fork
+29402 3 is eating
+29402 1 is eating
+29602 1 is sleeping
+29602 3 is sleeping
+29602 4 is thinking
+29602 2 is thinking
+29602 4 has taken a fork
+29602 2 has taken a fork
+29602 4 has taken a fork
+29602 2 has taken a fork
+29602 4 is eating
+29602 2 is eating
+29802 3 is thinking
+29802 2 is sleeping
+29802 4 is sleeping
+29802 3 has taken a fork
+29802 1 is thinking
+29802 3 has taken a fork
+29802 1 has taken a fork
+29802 3 is eating
+29802 1 has taken a fork
+29802 1 is eating
+30002 4 is thinking
+30002 1 is sleeping
+30002 2 is thinking
+30002 3 is sleeping
+30002 4 has taken a fork
+30002 2 has taken a fork
+30002 4 has taken a fork
+30002 2 has taken a fork
+30002 4 is eating
+30002 2 is eating
+30202 2 is sleeping
+30202 1 is thinking
+30202 4 is sleeping
+30202 3 is thinking
+30202 1 has taken a fork
+30202 3 has taken a fork
+30202 1 has taken a fork
+30202 3 has taken a fork
+30202 1 is eating
+30202 3 is eating
+30402 4 is thinking
+30402 2 is thinking
+30402 1 is sleeping
+30402 4 has taken a fork
+30402 3 is sleeping
+30402 2 has taken a fork
+30402 4 has taken a fork
+30402 2 has taken a fork
+30402 4 is eating
+30402 2 is eating
+30602 1 is thinking
+30602 4 is sleeping
+30602 3 is thinking
+30602 2 is sleeping
+30602 1 has taken a fork
+30602 3 has taken a fork
+30602 1 has taken a fork
+30602 3 has taken a fork
+30602 1 is eating
+30602 3 is eating
+30802 2 is thinking
+30802 1 is sleeping
+30802 4 is thinking
+30802 3 is sleeping
+30802 2 has taken a fork
+30802 4 has taken a fork
+30802 2 has taken a fork
+30802 4 has taken a fork
+30802 2 is eating
+30802 4 is eating
+31002 4 is sleeping
+31002 1 is thinking
+31002 3 is thinking
+31002 2 is sleeping
+31002 1 has taken a fork
+31002 3 has taken a fork
+31002 1 has taken a fork
+31002 3 has taken a fork
+31002 1 is eating
+31002 3 is eating
+31202 1 is sleeping
+31202 4 is thinking
+31202 2 is thinking
+31202 3 is sleeping
+31202 4 has taken a fork
+31202 2 has taken a fork
+31202 4 has taken a fork
+31202 2 has taken a fork
+31202 4 is eating
+31202 2 is eating
+31402 4 is sleeping
+31402 2 is sleeping
+31402 3 is thinking
+31402 1 is thinking
+31402 3 has taken a fork
+31402 1 has taken a fork
+31402 3 has taken a fork
+31402 1 has taken a fork
+31402 3 is eating
+31402 1 is eating
+31602 4 is thinking
+31602 1 is sleeping
+31602 3 is sleeping
+31602 2 is thinking
+31602 4 has taken a fork
+31602 2 has taken a fork
+31602 4 has taken a fork
+31602 2 has taken a fork
+31602 4 is eating
+31602 2 is eating
+31802 3 is thinking
+31802 1 is thinking
+31802 2 is sleeping
+31802 4 is sleeping
+31802 3 has taken a fork
+31802 1 has taken a fork
+31802 3 has taken a fork
+31802 1 has taken a fork
+31802 3 is eating
+31802 1 is eating
+32002 2 is thinking
+32002 3 is sleeping
+32002 1 is sleeping
+32002 4 is thinking
+32002 2 has taken a fork
+32002 4 has taken a fork
+32002 2 has taken a fork
+32002 4 has taken a fork
+32002 2 is eating
+32002 4 is eating
+32202 2 is sleeping
+32202 4 is sleeping
+32202 1 is thinking
+32202 3 is thinking
+32202 1 has taken a fork
+32202 3 has taken a fork
+32202 1 has taken a fork
+32202 3 has taken a fork
+32202 1 is eating
+32202 3 is eating
+32402 2 is thinking
+32402 4 is thinking
+32402 1 is sleeping
+32402 3 is sleeping
+32402 2 has taken a fork
+32402 4 has taken a fork
+32402 2 has taken a fork
+32402 4 has taken a fork
+32402 2 is eating
+32402 4 is eating
+32602 1 is thinking
+32602 2 is sleeping
+32602 3 is thinking
+32602 4 is sleeping
+32602 1 has taken a fork
+32602 3 has taken a fork
+32602 1 has taken a fork
+32602 3 has taken a fork
+32602 1 is eating
+32602 3 is eating
+32802 2 is thinking
+32802 3 is sleeping
+32802 1 is sleeping
+32802 4 is thinking
+32802 2 has taken a fork
+32802 4 has taken a fork
+32802 2 has taken a fork
+32802 4 has taken a fork
+32802 2 is eating
+32802 4 is eating
+33002 4 is sleeping
+33002 2 is sleeping
+33002 3 is thinking
+33002 1 is thinking
+33002 3 has taken a fork
+33002 1 has taken a fork
+33002 3 has taken a fork
+33002 1 has taken a fork
+33002 3 is eating
+33002 1 is eating
+33202 2 is thinking
+33202 4 is thinking
+33202 1 is sleeping
+33202 3 is sleeping
+33202 2 has taken a fork
+33202 4 has taken a fork
+33202 2 has taken a fork
+33202 4 has taken a fork
+33202 2 is eating
+33202 4 is eating
+33402 1 is thinking
+33402 4 is sleeping
+33402 3 is thinking
+33402 2 is sleeping
+33402 1 has taken a fork
+33402 3 has taken a fork
+33402 1 has taken a fork
+33402 3 has taken a fork
+33402 1 is eating
+33402 3 is eating
+33602 4 is thinking
+33602 1 is sleeping
+33602 3 is sleeping
+33602 2 is thinking
+33602 4 has taken a fork
+33602 2 has taken a fork
+33602 4 has taken a fork
+33602 2 has taken a fork
+33602 4 is eating
+33602 2 is eating
+33802 1 is thinking
+33802 2 is sleeping
+33802 3 is thinking
+33802 4 is sleeping
+33802 1 has taken a fork
+33802 3 has taken a fork
+33802 1 has taken a fork
+33802 3 has taken a fork
+33802 1 is eating
+33802 3 is eating
+34002 2 is thinking
+34002 1 is sleeping
+34002 3 is sleeping
+34002 4 is thinking
+34002 2 has taken a fork
+34002 4 has taken a fork
+34002 2 has taken a fork
+34002 4 has taken a fork
+34002 2 is eating
+34002 4 is eating
+34202 1 is thinking
+34202 2 is sleeping
+34202 4 is sleeping
+34202 3 is thinking
+34202 1 has taken a fork
+34202 3 has taken a fork
+34202 1 has taken a fork
+34202 3 has taken a fork
+34202 1 is eating
+34202 3 is eating
+34402 4 is thinking
+34402 2 is thinking
+34402 1 is sleeping
+34402 3 is sleeping
+34402 4 has taken a fork
+34402 2 has taken a fork
+34402 4 has taken a fork
+34402 2 has taken a fork
+34402 4 is eating
+34402 2 is eating
+34602 1 is thinking
+34602 3 is thinking
+34602 2 is sleeping
+34602 4 is sleeping
+34602 1 has taken a fork
+34602 3 has taken a fork
+34602 1 has taken a fork
+34602 3 has taken a fork
+34602 1 is eating
+34602 3 is eating
+34802 4 is thinking
+34802 3 is sleeping
+34802 4 has taken a fork
+34802 1 is sleeping
+34802 4 has taken a fork
+34802 2 is thinking
+34802 4 is eating
+34802 2 has taken a fork
+34802 2 has taken a fork
+34802 2 is eating
+35002 4 is sleeping
+35002 1 is thinking
+35002 3 is thinking
+35002 2 is sleeping
+35002 1 has taken a fork
+35002 3 has taken a fork
+35002 1 has taken a fork
+35002 3 has taken a fork
+35002 1 is eating
+35002 3 is eating
+35202 4 is thinking
+35202 3 is sleeping
+35202 1 is sleeping
+35202 2 is thinking
+35202 4 has taken a fork
+35202 2 has taken a fork
+35202 4 has taken a fork
+35202 2 has taken a fork
+35202 4 is eating
+35202 2 is eating
+35402 3 is thinking
+35402 4 is sleeping
+35402 2 is sleeping
+35402 1 is thinking
+35402 3 has taken a fork
+35402 1 has taken a fork
+35402 3 has taken a fork
+35402 1 has taken a fork
+35402 3 is eating
+35402 1 is eating
+35602 4 is thinking
+35602 1 is sleeping
+35602 3 is sleeping
+35602 2 is thinking
+35602 4 has taken a fork
+35602 2 has taken a fork
+35602 4 has taken a fork
+35602 2 has taken a fork
+35602 4 is eating
+35602 2 is eating
+35802 1 is thinking
+35802 3 is thinking
+35802 4 is sleeping
+35802 2 is sleeping
+35802 1 has taken a fork
+35802 3 has taken a fork
+35802 1 has taken a fork
+35802 3 has taken a fork
+35802 1 is eating
+35802 3 is eating
+36002 3 is sleeping
+36002 2 is thinking
+36002 1 is sleeping
+36002 2 has taken a fork
+36002 2 has taken a fork
+36002 4 is thinking
+36002 2 is eating
+36002 4 has taken a fork
+36002 4 has taken a fork
+36002 4 is eating
+36202 1 is thinking
+36202 2 is sleeping
+36202 3 is thinking
+36202 4 is sleeping
+36202 1 has taken a fork
+36202 3 has taken a fork
+36202 1 has taken a fork
+36202 3 has taken a fork
+36202 1 is eating
+36202 3 is eating
+36402 1 is sleeping
+36402 2 is thinking
+36402 3 is sleeping
+36402 4 is thinking
+36402 2 has taken a fork
+36402 4 has taken a fork
+36402 2 has taken a fork
+36402 4 has taken a fork
+36402 2 is eating
+36402 4 is eating
+36602 1 is thinking
+36602 4 is sleeping
+36602 2 is sleeping
+36602 3 is thinking
+36602 1 has taken a fork
+36602 3 has taken a fork
+36602 1 has taken a fork
+36602 3 has taken a fork
+36602 1 is eating
+36602 3 is eating
+36802 4 is thinking
+36802 2 is thinking
+36802 1 is sleeping
+36802 3 is sleeping
+36802 4 has taken a fork
+36802 2 has taken a fork
+36802 4 has taken a fork
+36802 2 has taken a fork
+36802 4 is eating
+36802 2 is eating
+37002 1 is thinking
+37002 2 is sleeping
+37002 3 is thinking
+37002 4 is sleeping
+37002 1 has taken a fork
+37002 3 has taken a fork
+37002 1 has taken a fork
+37002 3 has taken a fork
+37002 1 is eating
+37002 3 is eating
+37202 4 is thinking
+37202 1 is sleeping
+37202 3 is sleeping
+37202 2 is thinking
+37202 4 has taken a fork
+37202 2 has taken a fork
+37202 4 has taken a fork
+37202 2 has taken a fork
+37202 4 is eating
+37202 2 is eating
+37402 3 is thinking
+37402 4 is sleeping
+37402 1 is thinking
+37402 2 is sleeping
+37402 3 has taken a fork
+37402 1 has taken a fork
+37402 3 has taken a fork
+37402 1 has taken a fork
+37402 3 is eating
+37402 1 is eating
+37602 1 is sleeping
+37602 4 is thinking
+37602 3 is sleeping
+37602 2 is thinking
+37602 4 has taken a fork
+37602 2 has taken a fork
+37602 4 has taken a fork
+37602 2 has taken a fork
+37602 4 is eating
+37602 2 is eating
+37802 3 is thinking
+37802 4 is sleeping
+37802 2 is sleeping
+37802 1 is thinking
+37802 3 has taken a fork
+37802 1 has taken a fork
+37802 3 has taken a fork
+37802 1 has taken a fork
+37802 3 is eating
+37802 1 is eating
+38002 4 is thinking
+38002 2 is thinking
+38002 1 is sleeping
+38002 3 is sleeping
+38002 4 has taken a fork
+38002 2 has taken a fork
+38002 4 has taken a fork
+38002 2 has taken a fork
+38002 4 is eating
+38002 2 is eating
+38202 1 is thinking
+38202 4 is sleeping
+38202 3 is thinking
+38202 2 is sleeping
+38202 1 has taken a fork
+38202 3 has taken a fork
+38202 1 has taken a fork
+38202 3 has taken a fork
+38202 1 is eating
+38202 3 is eating
+38402 4 is thinking
+38402 3 is sleeping
+38402 1 is sleeping
+38402 2 is thinking
+38402 4 has taken a fork
+38402 2 has taken a fork
+38402 4 has taken a fork
+38402 2 has taken a fork
+38402 4 is eating
+38402 2 is eating
+38602 3 is thinking
+38602 2 is sleeping
+38602 1 is thinking
+38602 4 is sleeping
+38602 3 has taken a fork
+38602 1 has taken a fork
+38602 3 has taken a fork
+38602 1 has taken a fork
+38602 3 is eating
+38602 1 is eating
+38802 2 is thinking
+38802 1 is sleeping
+38802 4 is thinking
+38802 3 is sleeping
+38802 2 has taken a fork
+38802 4 has taken a fork
+38802 2 has taken a fork
+38802 4 has taken a fork
+38802 2 is eating
+38802 4 is eating
+39002 3 is thinking
+39002 4 is sleeping
+39002 1 is thinking
+39002 2 is sleeping
+39002 3 has taken a fork
+39002 1 has taken a fork
+39002 3 has taken a fork
+39002 1 has taken a fork
+39002 3 is eating
+39002 1 is eating
+39202 3 is sleeping
+39202 2 is thinking
+39202 4 is thinking
+39202 1 is sleeping
+39202 2 has taken a fork
+39202 4 has taken a fork
+39202 2 has taken a fork
+39202 4 has taken a fork
+39202 2 is eating
+39202 4 is eating
+39402 3 is thinking
+39402 2 is sleeping
+39402 4 is sleeping
+39402 1 is thinking
+39402 3 has taken a fork
+39402 1 has taken a fork
+39402 3 has taken a fork
+39402 1 has taken a fork
+39402 3 is eating
+39402 1 is eating
+39602 4 is thinking
+39602 3 is sleeping
+39602 1 is sleeping
+39602 2 is thinking
+39602 4 has taken a fork
+39602 2 has taken a fork
+39602 4 has taken a fork
+39602 2 has taken a fork
+39602 4 is eating
+39602 2 is eating
+39802 4 is sleeping
+39802 3 is thinking
+39802 1 is thinking
+39802 2 is sleeping
+39802 3 has taken a fork
+39802 1 has taken a fork
+39802 3 has taken a fork
+39802 1 has taken a fork
+39802 3 is eating
+39802 1 is eating
+40002 2 is thinking
+40002 3 is sleeping
+40002 4 is thinking
+40002 1 is sleeping
+40002 2 has taken a fork
+40002 4 has taken a fork
+40002 2 has taken a fork
+40002 4 has taken a fork
+40002 2 is eating
+40002 4 is eating
+40202 3 is thinking
+40202 4 is sleeping
+40202 1 is thinking
+40202 2 is sleeping
+40202 3 has taken a fork
+40202 1 has taken a fork
+40202 3 has taken a fork
+40202 1 has taken a fork
+40202 3 is eating
+40202 1 is eating
+40402 2 is thinking
+40402 4 is thinking
+40402 1 is sleeping
+40402 3 is sleeping
+40402 2 has taken a fork
+40402 4 has taken a fork
+40402 2 has taken a fork
+40402 4 has taken a fork
+40402 2 is eating
+40402 4 is eating
+40602 2 is sleeping
+40602 4 is sleeping
+40602 1 is thinking
+40602 3 is thinking
+40602 1 has taken a fork
+40602 3 has taken a fork
+40602 1 has taken a fork
+40602 3 has taken a fork
+40602 1 is eating
+40602 3 is eating
+40802 4 is thinking
+40802 3 is sleeping
+40802 2 is thinking
+40802 1 is sleeping
+40802 4 has taken a fork
+40802 2 has taken a fork
+40802 4 has taken a fork
+40802 2 has taken a fork
+40802 4 is eating
+40802 2 is eating
+41002 1 is thinking
+41002 3 is thinking
+41002 4 is sleeping
+41002 2 is sleeping
+41002 1 has taken a fork
+41002 3 has taken a fork
+41002 1 has taken a fork
+41002 3 has taken a fork
+41002 1 is eating
+41002 3 is eating
+41202 4 is thinking
+41202 2 is thinking
+41202 1 is sleeping
+41202 3 is sleeping
+41202 4 has taken a fork
+41202 2 has taken a fork
+41202 4 has taken a fork
+41202 2 has taken a fork
+41202 4 is eating
+41202 2 is eating
+41402 2 is sleeping
+41402 4 is sleeping
+41402 3 is thinking
+41402 1 is thinking
+41402 3 has taken a fork
+41402 1 has taken a fork
+41402 3 has taken a fork
+41402 1 has taken a fork
+41402 3 is eating
+41402 1 is eating
+41602 2 is thinking
+41602 1 is sleeping
+41602 3 is sleeping
+41602 4 is thinking
+41602 2 has taken a fork
+41602 4 has taken a fork
+41602 2 has taken a fork
+41602 4 has taken a fork
+41602 2 is eating
+41602 4 is eating
+41802 3 is thinking
+41802 2 is sleeping
+41802 1 is thinking
+41802 4 is sleeping
+41802 3 has taken a fork
+41802 1 has taken a fork
+41802 3 has taken a fork
+41802 1 has taken a fork
+41802 3 is eating
+41802 1 is eating
+42002 2 is thinking
+42002 1 is sleeping
+42002 3 is sleeping
+42002 4 is thinking
+42002 2 has taken a fork
+42002 4 has taken a fork
+42002 2 has taken a fork
+42002 4 has taken a fork
+42002 2 is eating
+42002 4 is eating
+42202 1 is thinking
+42202 2 is sleeping
+42202 4 is sleeping
+42202 3 is thinking
+42202 1 has taken a fork
+42202 3 has taken a fork
+42202 1 has taken a fork
+42202 3 has taken a fork
+42202 1 is eating
+42202 3 is eating
+42402 2 is thinking
+42402 3 is sleeping
+42402 1 is sleeping
+42402 4 is thinking
+42402 2 has taken a fork
+42402 4 has taken a fork
+42402 2 has taken a fork
+42402 4 has taken a fork
+42402 2 is eating
+42402 4 is eating
+42602 3 is thinking
+42602 2 is sleeping
+42602 4 is sleeping
+42602 1 is thinking
+42602 3 has taken a fork
+42602 1 has taken a fork
+42602 3 has taken a fork
+42602 1 has taken a fork
+42602 3 is eating
+42602 1 is eating
+42802 2 is thinking
+42802 3 is sleeping
+42802 1 is sleeping
+42802 4 is thinking
+42802 2 has taken a fork
+42802 4 has taken a fork
+42802 2 has taken a fork
+42802 4 has taken a fork
+42802 2 is eating
+42802 4 is eating
+43002 3 is thinking
+43002 1 is thinking
+43002 2 is sleeping
+43002 4 is sleeping
+43002 3 has taken a fork
+43002 1 has taken a fork
+43002 3 has taken a fork
+43002 1 has taken a fork
+43002 3 is eating
+43002 1 is eating
+43202 2 is thinking
+43202 1 is sleeping
+43202 3 is sleeping
+43202 4 is thinking
+43202 2 has taken a fork
+43202 4 has taken a fork
+43202 2 has taken a fork
+43202 4 has taken a fork
+43202 2 is eating
+43202 4 is eating
+43402 3 is thinking
+43402 1 is thinking
+43402 4 is sleeping
+43402 2 is sleeping
+43402 3 has taken a fork
+43402 1 has taken a fork
+43402 3 has taken a fork
+43402 1 has taken a fork
+43402 3 is eating
+43402 1 is eating
+43602 2 is thinking
+43602 1 is sleeping
+43602 4 is thinking
+43602 3 is sleeping
+43602 2 has taken a fork
+43602 4 has taken a fork
+43602 2 has taken a fork
+43602 4 has taken a fork
+43602 2 is eating
+43602 4 is eating
+43802 3 is thinking
+43802 4 is sleeping
+43802 1 is thinking
+43802 3 has taken a fork
+43802 1 has taken a fork
+43802 2 is sleeping
+43802 3 has taken a fork
+43802 1 has taken a fork
+43802 3 is eating
+43802 1 is eating
+44002 4 is thinking
+44002 2 is thinking
+44002 1 is sleeping
+44002 4 has taken a fork
+44002 3 is sleeping
+44002 2 has taken a fork
+44002 4 has taken a fork
+44002 2 has taken a fork
+44002 4 is eating
+44002 2 is eating
+44202 1 is thinking
+44202 2 is sleeping
+44202 3 is thinking
+44202 4 is sleeping
+44202 1 has taken a fork
+44202 3 has taken a fork
+44202 1 has taken a fork
+44202 3 has taken a fork
+44202 1 is eating
+44202 3 is eating
+44402 2 is thinking
+44402 3 is sleeping
+44402 4 is thinking
+44402 1 is sleeping
+44402 2 has taken a fork
+44402 4 has taken a fork
+44402 2 has taken a fork
+44402 4 has taken a fork
+44402 2 is eating
+44402 4 is eating
+44602 4 is sleeping
+44602 2 is sleeping
+44602 1 is thinking
+44602 3 is thinking
+44602 1 has taken a fork
+44602 3 has taken a fork
+44602 1 has taken a fork
+44602 3 has taken a fork
+44602 1 is eating
+44602 3 is eating
+44802 4 is thinking
+44802 1 is sleeping
+44802 3 is sleeping
+44802 2 is thinking
+44802 4 has taken a fork
+44802 2 has taken a fork
+44802 4 has taken a fork
+44802 2 has taken a fork
+44802 4 is eating
+44802 2 is eating
+45002 1 is thinking
+45002 4 is sleeping
+45002 2 is sleeping
+45002 3 is thinking
+45002 1 has taken a fork
+45002 3 has taken a fork
+45002 1 has taken a fork
+45002 3 has taken a fork
+45002 1 is eating
+45002 3 is eating
+45202 4 is thinking
+45202 1 is sleeping
+45202 2 is thinking
+45202 3 is sleeping
+45202 4 has taken a fork
+45202 2 has taken a fork
+45202 4 has taken a fork
+45202 2 has taken a fork
+45202 4 is eating
+45202 2 is eating
+45402 1 is thinking
+45402 3 is thinking
+45402 2 is sleeping
+45402 4 is sleeping
+45402 1 has taken a fork
+45402 3 has taken a fork
+45402 1 has taken a fork
+45402 3 has taken a fork
+45402 1 is eating
+45402 3 is eating
+45602 4 is thinking
+45602 2 is thinking
+45602 1 is sleeping
+45602 3 is sleeping
+45602 4 has taken a fork
+45602 2 has taken a fork
+45602 4 has taken a fork
+45602 2 has taken a fork
+45602 4 is eating
+45602 2 is eating
+45802 3 is thinking
+45802 2 is sleeping
+45802 1 is thinking
+45802 4 is sleeping
+45802 3 has taken a fork
+45802 1 has taken a fork
+45802 3 has taken a fork
+45802 1 has taken a fork
+45802 3 is eating
+45802 1 is eating
+46002 4 is thinking
+46002 3 is sleeping
+46002 1 is sleeping
+46002 2 is thinking
+46002 4 has taken a fork
+46002 2 has taken a fork
+46002 4 has taken a fork
+46002 2 has taken a fork
+46002 4 is eating
+46002 2 is eating
+46202 2 is sleeping
+46202 4 is sleeping
+46202 3 is thinking
+46202 1 is thinking
+46202 3 has taken a fork
+46202 1 has taken a fork
+46202 3 has taken a fork
+46202 1 has taken a fork
+46202 3 is eating
+46202 1 is eating
+46402 4 is thinking
+46402 3 is sleeping
+46402 2 is thinking
+46402 1 is sleeping
+46402 4 has taken a fork
+46402 2 has taken a fork
+46402 4 has taken a fork
+46402 2 has taken a fork
+46402 4 is eating
+46402 2 is eating
+46602 4 is sleeping
+46602 2 is sleeping
+46602 1 is thinking
+46602 3 is thinking
+46602 1 has taken a fork
+46602 3 has taken a fork
+46602 1 has taken a fork
+46602 3 has taken a fork
+46602 1 is eating
+46602 3 is eating
+46802 2 is thinking
+46802 4 is thinking
+46802 3 is sleeping
+46802 1 is sleeping
+46802 2 has taken a fork
+46802 4 has taken a fork
+46802 2 has taken a fork
+46802 4 has taken a fork
+46802 2 is eating
+46802 4 is eating
+47002 1 is thinking
+47002 4 is sleeping
+47002 2 is sleeping
+47002 3 is thinking
+47002 1 has taken a fork
+47002 3 has taken a fork
+47002 1 has taken a fork
+47002 3 has taken a fork
+47002 1 is eating
+47002 3 is eating
+47202 2 is thinking
+47202 1 is sleeping
+47202 3 is sleeping
+47202 4 is thinking
+47202 2 has taken a fork
+47202 4 has taken a fork
+47202 2 has taken a fork
+47202 4 has taken a fork
+47202 2 is eating
+47202 4 is eating
+47402 4 is sleeping
+47402 2 is sleeping
+47402 3 is thinking
+47402 1 is thinking
+47402 3 has taken a fork
+47402 1 has taken a fork
+47402 3 has taken a fork
+47402 1 has taken a fork
+47402 3 is eating
+47402 1 is eating
+47602 4 is thinking
+47602 3 is sleeping
+47602 1 is sleeping
+47602 2 is thinking
+47602 4 has taken a fork
+47602 2 has taken a fork
+47602 4 has taken a fork
+47602 2 has taken a fork
+47602 4 is eating
+47602 2 is eating
+47802 3 is thinking
+47802 2 is sleeping
+47802 1 is thinking
+47802 4 is sleeping
+47802 3 has taken a fork
+47802 1 has taken a fork
+47802 3 has taken a fork
+47802 1 has taken a fork
+47802 3 is eating
+47802 1 is eating
+48002 1 is sleeping
+48002 3 is sleeping
+48002 4 is thinking
+48002 2 is thinking
+48002 4 has taken a fork
+48002 2 has taken a fork
+48002 4 has taken a fork
+48002 2 has taken a fork
+48002 4 is eating
+48002 2 is eating
+48202 3 is thinking
+48202 1 is thinking
+48202 2 is sleeping
+48202 4 is sleeping
+48202 3 has taken a fork
+48202 1 has taken a fork
+48202 3 has taken a fork
+48202 1 has taken a fork
+48202 3 is eating
+48202 1 is eating
+48402 2 is thinking
+48402 3 is sleeping
+48402 1 is sleeping
+48402 4 is thinking
+48402 2 has taken a fork
+48402 4 has taken a fork
+48402 2 has taken a fork
+48402 4 has taken a fork
+48402 2 is eating
+48402 4 is eating
+48602 1 is thinking
+48602 4 is sleeping
+48602 3 is thinking
+48602 2 is sleeping
+48602 1 has taken a fork
+48602 3 has taken a fork
+48602 1 has taken a fork
+48602 3 has taken a fork
+48602 1 is eating
+48602 3 is eating
+48802 4 is thinking
+48802 1 is sleeping
+48802 2 is thinking
+48802 3 is sleeping
+48802 4 has taken a fork
+48802 2 has taken a fork
+48802 4 has taken a fork
+48802 2 has taken a fork
+48802 4 is eating
+48802 2 is eating
+49002 4 is sleeping
+49002 2 is sleeping
+49002 1 is thinking
+49002 3 is thinking
+49002 1 has taken a fork
+49002 3 has taken a fork
+49002 1 has taken a fork
+49002 3 has taken a fork
+49002 1 is eating
+49002 3 is eating
+49202 2 is thinking
+49202 4 is thinking
+49202 1 is sleeping
+49202 3 is sleeping
+49202 2 has taken a fork
+49202 4 has taken a fork
+49202 2 has taken a fork
+49202 4 has taken a fork
+49202 2 is eating
+49202 4 is eating
+49402 4 is sleeping
+49402 3 is thinking
+49402 2 is sleeping
+49402 3 has taken a fork
+49402 3 has taken a fork
+49402 3 is eating
+49402 1 is thinking
+49402 1 has taken a fork
+49402 1 has taken a fork
+49402 1 is eating
+49602 4 is thinking
+49602 2 is thinking
+49602 1 is sleeping
+49602 3 is sleeping
+49602 4 has taken a fork
+49602 2 has taken a fork
+49602 4 has taken a fork
+49602 2 has taken a fork
+49602 4 is eating
+49602 2 is eating
+49802 2 is sleeping
+49802 4 is sleeping
+49802 1 is thinking
+49802 3 is thinking
+49802 1 has taken a fork
+49802 3 has taken a fork
+49802 1 has taken a fork
+49802 3 has taken a fork
+49802 1 is eating
+49802 3 is eating
+50002 2 is thinking
+50002 4 is thinking
+50002 1 is sleeping
+50002 3 is sleeping
+50002 2 has taken a fork
+50002 4 has taken a fork
+50002 2 has taken a fork
+50002 4 has taken a fork
+50002 2 is eating
+50002 4 is eating
+50202 2 is sleeping
+50202 3 is thinking
+50202 4 is sleeping
+50202 1 is thinking
+50202 3 has taken a fork
+50202 1 has taken a fork
+50202 3 has taken a fork
+50202 1 has taken a fork
+50202 3 is eating
+50202 1 is eating
+50402 2 is thinking
+50402 4 is thinking
+50402 1 is sleeping
+50402 3 is sleeping
+50402 2 has taken a fork
+50402 4 has taken a fork
+50402 2 has taken a fork
+50402 4 has taken a fork
+50402 2 is eating
+50402 4 is eating
+50602 3 is thinking
+50602 2 is sleeping
+50602 4 is sleeping
+50602 1 is thinking
+50602 3 has taken a fork
+50602 1 has taken a fork
+50602 3 has taken a fork
+50602 1 has taken a fork
+50602 3 is eating
+50602 1 is eating
+50802 4 is thinking
+50802 2 is thinking
+50802 3 is sleeping
+50802 1 is sleeping
+50802 4 has taken a fork
+50802 2 has taken a fork
+50802 4 has taken a fork
+50802 2 has taken a fork
+50802 4 is eating
+50802 2 is eating
+51002 2 is sleeping
+51002 4 is sleeping
+51002 1 is thinking
+51002 3 is thinking
+51002 1 has taken a fork
+51002 3 has taken a fork
+51002 1 has taken a fork
+51002 3 has taken a fork
+51002 1 is eating
+51002 3 is eating
+51202 2 is thinking
+51202 1 is sleeping
+51202 3 is sleeping
+51202 4 is thinking
+51202 2 has taken a fork
+51202 4 has taken a fork
+51202 2 has taken a fork
+51202 4 has taken a fork
+51202 2 is eating
+51202 4 is eating
+51402 1 is thinking
+51402 4 is sleeping
+51402 3 is thinking
+51402 2 is sleeping
+51402 1 has taken a fork
+51402 3 has taken a fork
+51402 1 has taken a fork
+51402 3 has taken a fork
+51402 1 is eating
+51402 3 is eating
+51602 2 is thinking
+51602 1 is sleeping
+51602 3 is sleeping
+51602 4 is thinking
+51602 2 has taken a fork
+51602 4 has taken a fork
+51602 2 has taken a fork
+51602 4 has taken a fork
+51602 2 is eating
+51602 4 is eating
+51802 3 is thinking
+51802 1 is thinking
+51802 4 is sleeping
+51802 2 is sleeping
+51802 3 has taken a fork
+51802 1 has taken a fork
+51802 3 has taken a fork
+51802 1 has taken a fork
+51802 3 is eating
+51802 1 is eating
+52002 4 is thinking
+52002 3 is sleeping
+52002 1 is sleeping
+52002 2 is thinking
+52002 4 has taken a fork
+52002 2 has taken a fork
+52002 4 has taken a fork
+52002 2 has taken a fork
+52002 4 is eating
+52002 2 is eating
+52202 3 is thinking
+52202 2 is sleeping
+52202 1 is thinking
+52202 4 is sleeping
+52202 3 has taken a fork
+52202 1 has taken a fork
+52202 3 has taken a fork
+52202 1 has taken a fork
+52202 3 is eating
+52202 1 is eating
+52402 4 is thinking
+52402 1 is sleeping
+52402 3 is sleeping
+52402 4 has taken a fork
+52402 2 is thinking
+52402 4 has taken a fork
+52402 2 has taken a fork
+52402 4 is eating
+52402 2 has taken a fork
+52402 2 is eating
+52602 3 is thinking
+52602 1 is thinking
+52602 4 is sleeping
+52602 2 is sleeping
+52602 3 has taken a fork
+52602 1 has taken a fork
+52602 3 has taken a fork
+52602 1 has taken a fork
+52602 3 is eating
+52602 1 is eating
+52802 2 is thinking
+52802 4 is thinking
+52802 3 is sleeping
+52802 1 is sleeping
+52802 2 has taken a fork
+52802 4 has taken a fork
+52802 2 has taken a fork
+52802 4 has taken a fork
+52802 2 is eating
+52802 4 is eating
+53002 1 is thinking
+53002 2 is sleeping
+53002 4 is sleeping
+53002 3 is thinking
+53002 1 has taken a fork
+53002 3 has taken a fork
+53002 1 has taken a fork
+53002 3 has taken a fork
+53002 1 is eating
+53002 3 is eating
+53202 1 is sleeping
+53202 3 is sleeping
+53202 4 is thinking
+53202 2 is thinking
+53202 4 has taken a fork
+53202 2 has taken a fork
+53202 4 has taken a fork
+53202 2 has taken a fork
+53202 4 is eating
+53202 2 is eating
+53402 1 is thinking
+53402 2 is sleeping
+53402 4 is sleeping
+53402 3 is thinking
+53402 1 has taken a fork
+53402 3 has taken a fork
+53402 1 has taken a fork
+53402 3 has taken a fork
+53402 1 is eating
+53402 3 is eating
+53602 2 is thinking
+53602 1 is sleeping
+53602 3 is sleeping
+53602 4 is thinking
+53602 2 has taken a fork
+53602 4 has taken a fork
+53602 2 has taken a fork
+53602 4 has taken a fork
+53602 2 is eating
+53602 4 is eating
+53802 4 is sleeping
+53802 1 is thinking
+53802 2 is sleeping
+53802 3 is thinking
+53802 1 has taken a fork
+53802 3 has taken a fork
+53802 1 has taken a fork
+53802 3 has taken a fork
+53802 1 is eating
+53802 3 is eating
+54002 2 is thinking
+54002 1 is sleeping
+54002 4 is thinking
+54002 3 is sleeping
+54002 2 has taken a fork
+54002 4 has taken a fork
+54002 2 has taken a fork
+54002 4 has taken a fork
+54002 2 is eating
+54002 4 is eating
+54202 3 is thinking
+54202 1 is thinking
+54202 2 is sleeping
+54202 4 is sleeping
+54202 3 has taken a fork
+54202 1 has taken a fork
+54202 3 has taken a fork
+54202 1 has taken a fork
+54202 3 is eating
+54202 1 is eating
+54402 3 is sleeping
+54402 4 is thinking
+54402 1 is sleeping
+54402 2 is thinking
+54402 4 has taken a fork
+54402 2 has taken a fork
+54402 4 has taken a fork
+54402 2 has taken a fork
+54402 4 is eating
+54402 2 is eating
+54602 1 is thinking
+54602 3 is thinking
+54602 2 is sleeping
+54602 4 is sleeping
+54602 1 has taken a fork
+54602 3 has taken a fork
+54602 1 has taken a fork
+54602 3 has taken a fork
+54602 1 is eating
+54602 3 is eating
+54802 2 is thinking
+54802 1 is sleeping
+54802 4 is thinking
+54802 3 is sleeping
+54802 2 has taken a fork
+54802 4 has taken a fork
+54802 2 has taken a fork
+54802 4 has taken a fork
+54802 2 is eating
+54802 4 is eating
+55002 1 is thinking
+55002 2 is sleeping
+55002 3 is thinking
+55002 4 is sleeping
+55002 1 has taken a fork
+55002 3 has taken a fork
+55002 1 has taken a fork
+55002 3 has taken a fork
+55002 1 is eating
+55002 3 is eating
+55202 2 is thinking
+55202 3 is sleeping
+55202 1 is sleeping
+55202 4 is thinking
+55202 2 has taken a fork
+55202 4 has taken a fork
+55202 2 has taken a fork
+55202 4 has taken a fork
+55202 2 is eating
+55202 4 is eating
+55402 2 is sleeping
+55402 3 is thinking
+55402 4 is sleeping
+55402 1 is thinking
+55402 3 has taken a fork
+55402 1 has taken a fork
+55402 3 has taken a fork
+55402 1 has taken a fork
+55402 3 is eating
+55402 1 is eating
+55602 3 is sleeping
+55602 1 is sleeping
+55602 2 is thinking
+55602 4 is thinking
+55602 2 has taken a fork
+55602 4 has taken a fork
+55602 2 has taken a fork
+55602 4 has taken a fork
+55602 2 is eating
+55602 4 is eating
+55802 3 is thinking
+55802 1 is thinking
+55802 4 is sleeping
+55802 2 is sleeping
+55802 3 has taken a fork
+55802 1 has taken a fork
+55802 3 has taken a fork
+55802 1 has taken a fork
+55802 3 is eating
+55802 1 is eating
+56002 4 is thinking
+56002 3 is sleeping
+56002 1 is sleeping
+56002 2 is thinking
+56002 4 has taken a fork
+56002 2 has taken a fork
+56002 4 has taken a fork
+56002 2 has taken a fork
+56002 4 is eating
+56002 2 is eating
+56202 1 is thinking
+56202 2 is sleeping
+56202 3 is thinking
+56202 4 is sleeping
+56202 1 has taken a fork
+56202 3 has taken a fork
+56202 1 has taken a fork
+56202 3 has taken a fork
+56202 1 is eating
+56202 3 is eating
+56402 2 is thinking
+56402 4 is thinking
+56402 3 is sleeping
+56402 1 is sleeping
+56402 2 has taken a fork
+56402 4 has taken a fork
+56402 2 has taken a fork
+56402 4 has taken a fork
+56402 2 is eating
+56402 4 is eating
+56602 1 is thinking
+56602 4 is sleeping
+56602 2 is sleeping
+56602 3 is thinking
+56602 1 has taken a fork
+56602 3 has taken a fork
+56602 1 has taken a fork
+56602 3 has taken a fork
+56602 1 is eating
+56602 3 is eating
+56802 2 is thinking
+56802 4 is thinking
+56802 1 is sleeping
+56802 3 is sleeping
+56802 2 has taken a fork
+56802 4 has taken a fork
+56802 2 has taken a fork
+56802 4 has taken a fork
+56802 2 is eating
+56802 4 is eating
+57002 3 is thinking
+57002 2 is sleeping
+57002 4 is sleeping
+57002 1 is thinking
+57002 3 has taken a fork
+57002 1 has taken a fork
+57002 3 has taken a fork
+57002 1 has taken a fork
+57002 3 is eating
+57002 1 is eating
+57202 2 is thinking
+57202 1 is sleeping
+57202 3 is sleeping
+57202 4 is thinking
+57202 2 has taken a fork
+57202 4 has taken a fork
+57202 2 has taken a fork
+57202 4 has taken a fork
+57202 2 is eating
+57202 4 is eating
+57402 1 is thinking
+57402 4 is sleeping
+57402 2 is sleeping
+57402 3 is thinking
+57402 1 has taken a fork
+57402 3 has taken a fork
+57402 1 has taken a fork
+57402 3 has taken a fork
+57402 1 is eating
+57402 3 is eating
+57602 4 is thinking
+57602 2 is thinking
+57602 1 is sleeping
+57602 3 is sleeping
+57602 4 has taken a fork
+57602 2 has taken a fork
+57602 4 has taken a fork
+57602 2 has taken a fork
+57602 4 is eating
+57602 2 is eating
+57802 3 is thinking
+57802 2 is sleeping
+57802 4 is sleeping
+57802 3 has taken a fork
+57802 3 has taken a fork
+57802 3 is eating
+57802 1 is thinking
+57802 1 has taken a fork
+57802 1 has taken a fork
+57802 1 is eating
+58002 2 is thinking
+58002 1 is sleeping
+58002 3 is sleeping
+58002 4 is thinking
+58002 2 has taken a fork
+58002 4 has taken a fork
+58002 2 has taken a fork
+58002 4 has taken a fork
+58002 2 is eating
+58002 4 is eating
+58202 3 is thinking
+58202 2 is sleeping
+58202 4 is sleeping
+58202 1 is thinking
+58202 3 has taken a fork
+58202 1 has taken a fork
+58202 3 has taken a fork
+58202 1 has taken a fork
+58202 3 is eating
+58202 1 is eating
+58402 2 is thinking
+58402 1 is sleeping
+58402 4 is thinking
+58402 3 is sleeping
+58402 2 has taken a fork
+58402 4 has taken a fork
+58402 2 has taken a fork
+58402 4 has taken a fork
+58402 2 is eating
+58402 4 is eating
+58602 1 is thinking
+58602 2 is sleeping
+58602 4 is sleeping
+58602 3 is thinking
+58602 1 has taken a fork
+58602 3 has taken a fork
+58602 1 has taken a fork
+58602 3 has taken a fork
+58602 1 is eating
+58602 3 is eating
+58802 2 is thinking
+58802 3 is sleeping
+58802 1 is sleeping
+58802 4 is thinking
+58802 2 has taken a fork
+58802 4 has taken a fork
+58802 2 has taken a fork
+58802 4 has taken a fork
+58802 2 is eating
+58802 4 is eating
+59002 1 is thinking
+59002 4 is sleeping
+59002 2 is sleeping
+59002 3 is thinking
+59002 1 has taken a fork
+59002 3 has taken a fork
+59002 1 has taken a fork
+59002 3 has taken a fork
+59002 1 is eating
+59002 3 is eating
+59202 4 is thinking
+59202 3 is sleeping
+59202 2 is thinking
+59202 1 is sleeping
+59202 4 has taken a fork
+59202 2 has taken a fork
+59202 4 has taken a fork
+59202 2 has taken a fork
+59202 4 is eating
+59202 2 is eating
+59402 1 is thinking
+59402 2 is sleeping
+59402 4 is sleeping
+59402 3 is thinking
+59402 1 has taken a fork
+59402 3 has taken a fork
+59402 1 has taken a fork
+59402 3 has taken a fork
+59402 1 is eating
+59402 3 is eating
+59602 2 is thinking
+59602 3 is sleeping
+59602 4 is thinking
+59602 1 is sleeping
+59602 2 has taken a fork
+59602 4 has taken a fork
+59602 2 has taken a fork
+59602 4 has taken a fork
+59602 2 is eating
+59602 4 is eating
+59802 4 is sleeping
+59802 1 is thinking
+59802 2 is sleeping
+59802 3 is thinking
+59802 1 has taken a fork
+59802 3 has taken a fork
+59802 1 has taken a fork
+59802 3 has taken a fork
+59802 1 is eating
+59802 3 is eating
+60002 4 is thinking
+60002 2 is thinking
+60002 1 is sleeping
+60002 3 is sleeping
+60002 4 has taken a fork
+60002 2 has taken a fork
+60002 4 has taken a fork
+60002 2 has taken a fork
+60002 4 is eating
+60002 2 is eating
+60202 3 is thinking
+60202 2 is sleeping
+60202 4 is sleeping
+60202 1 is thinking
+60202 3 has taken a fork
+60202 1 has taken a fork
+60202 3 has taken a fork
+60202 1 has taken a fork
+60202 3 is eating
+60202 1 is eating
+60402 2 is thinking
+60402 1 is sleeping
+60402 4 is thinking
+60402 3 is sleeping
+60402 2 has taken a fork
+60402 4 has taken a fork
+60402 2 has taken a fork
+60402 4 has taken a fork
+60402 2 is eating
+60402 4 is eating
+60602 2 is sleeping
+60602 1 is thinking
+60602 4 is sleeping
+60602 3 is thinking
+60602 1 has taken a fork
+60602 3 has taken a fork
+60602 1 has taken a fork
+60602 3 has taken a fork
+60602 1 is eating
+60602 3 is eating
+60802 4 is thinking
+60802 3 is sleeping
+60802 1 is sleeping
+60802 2 is thinking
+60802 4 has taken a fork
+60802 2 has taken a fork
+60802 4 has taken a fork
+60802 2 has taken a fork
+60802 4 is eating
+60802 2 is eating
+61002 1 is thinking
+61002 2 is sleeping
+61002 3 is thinking
+61002 4 is sleeping
+61002 1 has taken a fork
+61002 3 has taken a fork
+61002 1 has taken a fork
+61002 3 has taken a fork
+61002 1 is eating
+61002 3 is eating
+61202 4 is thinking
+61202 2 is thinking
+61202 1 is sleeping
+61202 3 is sleeping
+61202 4 has taken a fork
+61202 2 has taken a fork
+61202 4 has taken a fork
+61202 2 has taken a fork
+61202 4 is eating
+61202 2 is eating
+61402 3 is thinking
+61402 1 is thinking
+61402 2 is sleeping
+61402 4 is sleeping
+61402 3 has taken a fork
+61402 1 has taken a fork
+61402 3 has taken a fork
+61402 1 has taken a fork
+61402 3 is eating
+61402 1 is eating
+61602 2 is thinking
+61602 3 is sleeping
+61602 4 is thinking
+61602 1 is sleeping
+61602 2 has taken a fork
+61602 4 has taken a fork
+61602 2 has taken a fork
+61602 4 has taken a fork
+61602 2 is eating
+61602 4 is eating
+61802 3 is thinking
+61802 2 is sleeping
+61802 1 is thinking
+61802 4 is sleeping
+61802 3 has taken a fork
+61802 1 has taken a fork
+61802 3 has taken a fork
+61802 1 has taken a fork
+61802 3 is eating
+61802 1 is eating
+62002 2 is thinking
+62002 4 is thinking
+62002 3 is sleeping
+62002 1 is sleeping
+62002 2 has taken a fork
+62002 4 has taken a fork
+62002 2 has taken a fork
+62002 4 has taken a fork
+62002 2 is eating
+62002 4 is eating
+62202 1 is thinking
+62202 3 is thinking
+62202 4 is sleeping
+62202 2 is sleeping
+62202 1 has taken a fork
+62202 3 has taken a fork
+62202 1 has taken a fork
+62202 3 has taken a fork
+62202 1 is eating
+62202 3 is eating
+62402 4 is thinking
+62402 2 is thinking
+62402 3 is sleeping
+62402 1 is sleeping
+62402 4 has taken a fork
+62402 2 has taken a fork
+62402 4 has taken a fork
+62402 2 has taken a fork
+62402 4 is eating
+62402 2 is eating
+62602 3 is thinking
+62602 4 is sleeping
+62602 1 is thinking
+62602 2 is sleeping
+62602 3 has taken a fork
+62602 1 has taken a fork
+62602 3 has taken a fork
+62602 1 has taken a fork
+62602 3 is eating
+62602 1 is eating
+62802 3 is sleeping
+62802 2 is thinking
+62802 1 is sleeping
+62802 4 is thinking
+62802 2 has taken a fork
+62802 4 has taken a fork
+62802 2 has taken a fork
+62802 4 has taken a fork
+62802 2 is eating
+62802 4 is eating
+63002 3 is thinking
+63002 4 is sleeping
+63002 1 is thinking
+63002 2 is sleeping
+63002 3 has taken a fork
+63002 1 has taken a fork
+63002 3 has taken a fork
+63002 1 has taken a fork
+63002 3 is eating
+63002 1 is eating
+63202 2 is thinking
+63202 1 is sleeping
+63202 3 is sleeping
+63202 4 is thinking
+63202 2 has taken a fork
+63202 4 has taken a fork
+63202 2 has taken a fork
+63202 4 has taken a fork
+63202 2 is eating
+63202 4 is eating
+63402 3 is thinking
+63402 4 is sleeping
+63402 2 is sleeping
+63402 1 is thinking
+63402 3 has taken a fork
+63402 1 has taken a fork
+63402 3 has taken a fork
+63402 1 has taken a fork
+63402 3 is eating
+63402 1 is eating
+63602 4 is thinking
+63618 2 is thinking
+63618 1 is sleeping
+63618 3 is sleeping
+63618 4 died
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4
++++> 4

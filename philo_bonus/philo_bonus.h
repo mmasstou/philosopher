@@ -82,7 +82,7 @@ void	ft_putendl_fd(char *s, int fd);
 int	ft_parse_bonus(int argc, char *argv[], t_args *args);
 void	print_action(t_philo *philo, int id, char *string);
 void	sleep_time(unsigned long time);
-int _starting_bonus(t_data *data, t_philo *phi);
+int _starting_bonus(t_philo *phi);
 int	eating_count(t_philo *philo);
 int	cheack_death(t_philo *phi);
 // error 
