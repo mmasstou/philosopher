@@ -6,7 +6,7 @@
 /*   By: mmasstou <mmasstou@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/06/21 00:06:37 by mmasstou          #+#    #+#             */
-/*   Updated: 2022/06/21 00:09:09 by mmasstou         ###   ########.fr       */
+/*   Updated: 2022/06/21 09:56:15 by mmasstou         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,10 +15,10 @@
 static int	cheak_max_int(long *nbr, char str, int *i)
 {	
 	if (ft_isdigit(str) != true)
-		philo_error("Error", 0);
+		philo_error("Error");
 	*nbr = (*nbr) * 10 + str - 48;
 	if (*nbr < INT_MIN || *nbr > INT_MAX)
-		philo_error("Error", 0);
+		philo_error("Error");
 	(*i)++;
 	return (true);
 }
@@ -35,9 +35,9 @@ int	arg_isdigit(char *str)
 	if (str[i] == '+' || str[i] == '-')
 	{
 		if (str[i] == '-')
-			philo_error("Error signe", 0);
+			philo_error("Error signe");
 		if (str[i + 1] == '\0')
-			philo_error("Error", 0);
+			philo_error("Error");
 		i++;
 	}
 	result *= signe;
@@ -53,7 +53,7 @@ int	min_args(t_args *args)
 		|| args->time_to_die < 1 \
 		|| args->time_to_eat < 1 \
 		|| args->time_to_sleep < 1)
-		philo_error("min value !", 0);
+		philo_error("min value !");
 	return (true);
 }
 
@@ -69,7 +69,7 @@ int	ft_parse_bonus(int argc, char *argv[], t_args *args)
 		while (argv[index][++jndex] == ' ')
 			;
 		if (argv[index][jndex] == '\0' || !arg_isdigit(&argv[index][jndex]))
-			philo_error("Error !", 0);
+			philo_error("Error !");
 	}
 	args->number_of_philosophers = arg_isdigit(argv[0]);
 	args->time_to_die = arg_isdigit(argv[1]);

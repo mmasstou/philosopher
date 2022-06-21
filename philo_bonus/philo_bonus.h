@@ -6,7 +6,7 @@
 /*   By: mmasstou <mmasstou@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/06/21 00:00:01 by mmasstou          #+#    #+#             */
-/*   Updated: 2022/06/21 00:02:58 by mmasstou         ###   ########.fr       */
+/*   Updated: 2022/06/21 09:55:37 by mmasstou         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -30,20 +30,8 @@
 # define PDEAD		"died" 
 # define PRFORK		"has taken a fork"
 # define PLFORK		"has taken a fork"
-
-# define _END  "\x1b[0m"
-# define _GREY  "\x1b[30m"
-# define _RED  "\x1b[31m"
-# define _GREEN  "\x1b[32m"
-# define _YELLOW  "\x1b[33m"
-# define _BLUE  "\x1b[34m"
-# define _PURPLE  "\x1b[35m"
-# define _CYAN  "\x1b[36m"
-# define _WHITE  "\x1b[37m"
-
 # define SEM_FORK "fork"
 # define SEM_WIRTE "wirte"
-# define SEM_EAT "eats"
 
 typedef struct args
 {
@@ -56,7 +44,7 @@ typedef struct args
 typedef struct data
 {
 	t_args			args;
-	struct s_phil	*head;
+	struct s_philo	*head;
 	sem_t			*fork;
 	sem_t			*wirteing;
 	sem_t			*eating;
@@ -85,8 +73,6 @@ t_philo		*lstlast(t_philo *lst);
 long long	get_time(void);
 int			ft_isdigit( int d);
 // lib
-char		*ft_strtrim(char const *s1, char const *set);
-int			ft_atoi(const char *str);
 void		ft_putendl_fd(char *s, int fd);
 char		*ft_strstr(const char *haystack, const char *needle);
 // ft_parse
@@ -96,7 +82,7 @@ void		sleep_time(long long time);
 int			_starting_bonus(t_philo *phi);
 int			eating_count(t_philo *philo);
 // error 
-void		philo_error(char *error_msg, int type);
+void		philo_error(char *error_msg);
 // semaphores
 void		init_semaphores_bonus(t_data *data);
 void		close_semaphores(t_data *data);

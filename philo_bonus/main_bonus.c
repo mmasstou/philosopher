@@ -6,7 +6,7 @@
 /*   By: mmasstou <mmasstou@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/06/20 23:58:10 by mmasstou          #+#    #+#             */
-/*   Updated: 2022/06/20 23:59:37 by mmasstou         ###   ########.fr       */
+/*   Updated: 2022/06/21 09:56:15 by mmasstou         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -32,8 +32,9 @@ int	main(int argc, char *argv[])
 	t_philo	*philo;
 	t_philo	*temp;
 
+	philo = NULL;
 	if ((argc < 5 || argc > 6))
-		philo_error("Error", 0);
+		philo_error("Error");
 	ft_parse_bonus(argc, argv + 1, &data.args);
 	philo = init_philos_bonus(&data);
 	if (!philo)

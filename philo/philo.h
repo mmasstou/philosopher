@@ -6,7 +6,7 @@
 /*   By: mmasstou <mmasstou@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/06/20 18:56:13 by mmasstou          #+#    #+#             */
-/*   Updated: 2022/06/20 21:26:16 by mmasstou         ###   ########.fr       */
+/*   Updated: 2022/06/21 10:06:55 by mmasstou         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -82,11 +82,10 @@ void			*ft_pthread_mutex_unlock(t_philo *philo);
 int				eating_count(t_philo *philo);
 int				death_check(t_philo *phi, t_data *data);
 // lib
-char			*ft_strtrim(char const *s1, char const *set);
-int				ft_atoi(const char *str);
 void			ft_putendl_fd(char *s, int fd);
 size_t			ft_strlen(const char *str);
 void			ft_putnbr_fd(int n, int fd);
+void			ft_putchar_fd(char c, int fd);
 char			*ft_strstr(const char *haystack, const char *needle);
 // ft_parse
 int				ft_parse(int argc, char *argv[], t_args *args);

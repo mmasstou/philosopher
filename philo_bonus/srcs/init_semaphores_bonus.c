@@ -6,7 +6,7 @@
 /*   By: mmasstou <mmasstou@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/06/21 00:09:45 by mmasstou          #+#    #+#             */
-/*   Updated: 2022/06/21 00:10:19 by mmasstou         ###   ########.fr       */
+/*   Updated: 2022/06/21 09:57:54 by mmasstou         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,7 +15,6 @@
 void	close_semaphores(t_data *data)
 {
 	sem_unlink(SEM_FORK);
-	sem_unlink(SEM_EAT);
 	sem_unlink(SEM_WIRTE);
 	sem_close(data->fork);
 	sem_close(data->eating);
@@ -32,7 +31,7 @@ void	init_semaphores_bonus(t_data *data)
 		data->fork = sem_open(SEM_FORK, O_CREAT, 666, \
 		data->args.number_of_philosophers);
 		if (data->fork == SEM_FAILED)
-			philo_error("can't create fork semphores !", 1);
+			philo_error("can't create fork semphores !");
 	}
 	data->wirteing = sem_open(SEM_WIRTE, O_CREAT, 666, 1);
 	if (data->wirteing == SEM_FAILED)
@@ -43,7 +42,7 @@ void	init_semaphores_bonus(t_data *data)
 		{
 			sem_unlink(SEM_FORK);
 			sem_close(data->fork);
-			philo_error("can't create wirteing semphore !", 1);
+			philo_error("can't create wirteing semphore !");
 		}
 	}
 }

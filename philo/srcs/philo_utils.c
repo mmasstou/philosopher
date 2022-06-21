@@ -6,16 +6,11 @@
 /*   By: mmasstou <mmasstou@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/06/20 18:52:26 by mmasstou          #+#    #+#             */
-/*   Updated: 2022/06/20 19:42:24 by mmasstou         ###   ########.fr       */
+/*   Updated: 2022/06/21 10:08:47 by mmasstou         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "../philo.h"
-
-int	ft_isdigit( int d)
-{
-	return (d >= '0' && d <= '9');
-}
 
 int	str_digit(char	*str)
 {

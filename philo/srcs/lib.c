@@ -6,79 +6,51 @@
 /*   By: mmasstou <mmasstou@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/06/20 18:52:12 by mmasstou          #+#    #+#             */
-/*   Updated: 2022/06/20 19:38:32 by mmasstou         ###   ########.fr       */
+/*   Updated: 2022/06/21 10:15:07 by mmasstou         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "../philo.h"
 
-static int	is_instring(char c, const char *set)
+void	ft_putchar_fd(char c, int fd)
 {
-	while (*set)
-		if (c == *set++)
-			return (1);
-	return (0);
+	write(fd, &c, 1);
 }
 
-static int	ft_isspace(int s)
+void	ft_putnbr_fd(int n, int fd)
 {
-	char	*space;
+	unsigned int	nbr;
 
-	space = "\f\n\r\t\v ";
-	while (*space)
-		if (s == *space++)
-			return (1);
-	return (0);
-}
-
-int	ft_atoi(const char *str)
-{
-	int	signe;
-	int	result;
-
-	signe = 1;
-	result = 0;
-	while (ft_isspace(*str))
-		str++;
-	if (*str == '+' || *str == '-')
+	if (n < 0)
 	{
-		if (*str == '-')
-			signe = -signe;
-		str++ ;
+		ft_putchar_fd('-', fd);
+		nbr = (unsigned int)(n * -1);
 	}
-	while (*str && ft_isdigit(*str))
-	{
-		result = result * 10 + *str - 48;
-		str++;
-	}
-	result *= signe;
-	return (result);
+	else
+		nbr = (unsigned int)n;
+	if (nbr >= 10)
+		ft_putnbr_fd(nbr / 10, fd);
+	ft_putchar_fd((nbr % 10 + 48), fd);
 }
 
-char	*ft_strtrim(char const *s1, char const *set)
+char	*ft_strstr(const char *haystack, const char *needle)
 {
-	char	*strtrim;
-	int		index;
-	int		jndex;
-	int		zndex;
+	size_t	i;
+	size_t	j;
 
-	if (!s1)
-		return (NULL);
-	jndex = ft_strlen(s1);
-	while (s1[--jndex] && is_instring(s1[jndex], set))
-		;
-	index = -1;
-	while (s1[++index] && is_instring(s1[index], set))
-		;
-	if (jndex == -1)
-		jndex = index;
-	zndex = jndex - index;
-	strtrim = (char *)malloc(zndex + 2);
-	if (!strtrim)
-		return (NULL);
-	zndex = index;
-	while (s1[index] && index <= jndex)
-		*strtrim++ = s1[index++];
-	*strtrim = 0;
-	return (strtrim - (index - zndex));
+	if (needle[0] == '\0')
+		return ((char *)haystack);
+	i = 0;
+	while (haystack[i] != '\0')
+	{
+		j = 0;
+		while (haystack[i + j] == needle[j])
+		{
+			if (needle[j + 1] == '\0')
+				return ((char *)&haystack[i]);
+			j ++;
+		}
+		i ++;
+	}
+	return (0);
 }

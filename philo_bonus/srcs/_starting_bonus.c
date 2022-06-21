@@ -6,7 +6,7 @@
 /*   By: mmasstou <mmasstou@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/06/21 00:03:25 by mmasstou          #+#    #+#             */
-/*   Updated: 2022/06/21 00:04:35 by mmasstou         ###   ########.fr       */
+/*   Updated: 2022/06/21 09:57:20 by mmasstou         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -56,7 +56,7 @@ void	*philo_rotine(void *philosopher)
 	philo = (t_philo *)philosopher;
 	if (pthread_create(&philo->thread, NULL, \
 	&checking_philosopher, (void *)philo))
-		philo_error("Error -> thread not created sccusfully", 1);
+		philo_error("Error -> thread not created sccusfully");
 	if ((philo->id % 2))
 		usleep(1000);
 	while (philo->data->simulation_ended != 1)
@@ -105,7 +105,7 @@ int	_starting_bonus(t_philo *phi)
 	{
 		phi->pid = fork();
 		if (phi->pid == -1)
-			philo_error("Error -> fork", 1);
+			philo_error("Error -> fork");
 		else if (phi->pid == 0)
 		{
 			phi->last_time_eat = get_time();
